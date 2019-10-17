@@ -1,0 +1,1535 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/-J0etUQ5v3DdS7mlHYOkZsV-J78\"",
+ "pageInfo": {
+  "totalResults": 40,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6LkZYosNET6e_Yc_IWktOFQmYO8\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:48:49.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary  - E01 - Running late",
+    "description": "Learn a new  word every day.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZWZ5gLI0YLs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZWZ5gLI0YLs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZWZ5gLI0YLs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZWZ5gLI0YLs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/_YwPViBQcLDG3EVyrHdV2E4SZLM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:49:03.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary  - E02 - I got tied up",
+    "description": "Learn a new English Word Every day, with example sentences.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aO1sBXmD3KA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aO1sBXmD3KA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aO1sBXmD3KA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aO1sBXmD3KA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/zDniMZvsJ197E23yxpIW9jIaL9g\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:50:41.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary E-03  - I ran over time",
+    "description": "Learn a new word every day. FREE online lesson with a native speaker. Idioms for the advanced English language learner. Lesson 3",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_y9KSoGZfkE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_y9KSoGZfkE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_y9KSoGZfkE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_y9KSoGZfkE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/-2Q7CRNn362N-yoQd_s0kbeczeY\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:50:49.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Advanced English Vocabulary  - E04  for ESL learn English Vocabulary",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nLearn a new word daily , Free  daily vocabulary for ESL learners. New words with example sentences to speak good and fluent English.  Ideal for us in daily english conversation and Business situations, eg at work , at a meeting etc",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r9qC-c6v-54/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r9qC-c6v-54/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r9qC-c6v-54/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r9qC-c6v-54"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/btXbaARYhR8c9PDCYzmsX72tiBs\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:51:01.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Basic English Vocabulary E05 | Free ESL lesson | Vocabulary & Phrases",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nlearn a new word or a phrase daily, free esl lesson with example sentences to practice making you learn to speak fluent english with neutral accent.\n\nTodays new word is : Runny Nose - Phrase",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DNBtq0iXd0c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DNBtq0iXd0c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DNBtq0iXd0c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DNBtq0iXd0c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Q04Q0WWEZMzC7-wNKe65TPbxmzw\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:51:11.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary E06 | Pre-occupied Vocabulary & Phrases",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nlearn a new word or a phrase daily, free esl lesson with example sentences to practice making you learn to speak fluent english with neutral accent.\n\nTodays new word is : Pre-occupied - Adjective",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9HEkBSKS8mg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9HEkBSKS8mg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9HEkBSKS8mg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9HEkBSKS8mg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Jfy4F99fc2sePg3gO_hbwV1__Ho\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:51:24.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary E07 | Free ESL lesson | Vocabulary",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nlearn a new word or a phrase daily, free esl lesson with example sentences to practice making you learn to speak fluent english with neutral accent.\n\nTodays new word is : Blown away  - Phrase",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/53visBYcSDg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/53visBYcSDg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/53visBYcSDg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "53visBYcSDg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/T3mWCAymt3j7EdrqL_t0yhXpse8\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:52:54.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary E08  | Free ESL lesson",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Strength to strength - Phrase,  a Free Esl lesson \n\n\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BP0Bk9az18Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BP0Bk9az18Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BP0Bk9az18Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BP0Bk9az18Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BP0Bk9az18Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BP0Bk9az18Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/mhhj2ISX2uYfhA8PFxdJi_-h7lg\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:53:02.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary - E09 English vocabulary & phrases",
+    "description": "Learn a new word daily, FREE online esl lesson with a native speaker. Vocabulary, Phrases and Idioms for the advanced English language learner. \n\nToday's word is : May I take your ?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aP1MtU5p3So/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aP1MtU5p3So/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aP1MtU5p3So/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aP1MtU5p3So"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/0iFn-ZjeenYEKnVZ4b5uOPIBn20\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:04.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily English Vocabulary E10  |  ESL lesson, Vocabulary & Phrases with Pronunciation &  Accent",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nlearn a new word or a phrase daily, free esl lesson with example sentences to practice making you learn to speak fluent English with neutral accent. Today's new word is : Strength to strength \n\nTodays new word is : ASAP -- as soon as possible\n\n\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q1xzI0crgGs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q1xzI0crgGs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q1xzI0crgGs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q1xzI0crgGs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hjQV5RJs67-JdjttUkuC2FBC0hc\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:09.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily  Vocabulary and phrases E11  | Spoken English  ESL lesson, Pronunciation & Accent",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Never mind - Phrase  a Free Esl lesson - \n\n\nTodays new word is : Never Mind - Phrase",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DSlzirO3F8s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DSlzirO3F8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DSlzirO3F8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DSlzirO3F8s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/XPAMQCCWOhGD7wOCvsvNiOCKn6I\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:14.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 12 - Beat around the bush ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nTodays new word is : BEAT AROUND THE BUSH\n\n\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3tSwfd5OP8M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3tSwfd5OP8M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3tSwfd5OP8M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3tSwfd5OP8M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/n1LgKdS8MLGFjL00sGlQ1F-42Q0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:19.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Business English Vocabulary E13 _ Free ESL lesson, Vocabulary & Phrases Pronunciation & Accent.flv",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jHeeYY2uhLo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jHeeYY2uhLo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jHeeYY2uhLo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jHeeYY2uhLo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jHeeYY2uhLo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/DNrc7TCH3AFRvsbETh4qRhk5dOM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:23.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 14 - Prestogious ( Free English Lessons) Prestigious",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : prestigious meaning respectful or very well known , Adjective, Phrase\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4p6BobAnyzc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4p6BobAnyzc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4p6BobAnyzc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4p6BobAnyzc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/7fJ8ePNN4PkxuqxAMxITfcb9hWc\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:28.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 15 - Run into  ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : run into or run into something , meaning starting to have some trouble, difficulty or problem.\r\n\r\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/356eHad6IFQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/356eHad6IFQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/356eHad6IFQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "356eHad6IFQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/OVC9YNo0MoWg9aYx42kOvmTP37Y\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:54:37.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 16  - Vacation Days ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Vacation Days -   Meaning : No of leave days that the company allows you to go on a vacation.\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/curP1WAJPX4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/curP1WAJPX4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/curP1WAJPX4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/curP1WAJPX4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/curP1WAJPX4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "curP1WAJPX4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/LC8scquQgMTmv7LhtNUh6TXedkM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:29.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 17  - Hassle ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Hassle , A situation that causes problem for you OR A lot of trouble that annoys you.\n\nPractice English lessons regularly to speak in English fluently and confidently.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D_kwpnUuduQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D_kwpnUuduQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D_kwpnUuduQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D_kwpnUuduQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/p-grH3YGw6og-6LMDNrkrVpbcso\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:34.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 18  - Raise ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Raise, This word is ideally used in a office situation when you want to ask your boss for more money or an increase in your monthly salary.\r\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F1aJ_BSJsAI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F1aJ_BSJsAI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F1aJ_BSJsAI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F1aJ_BSJsAI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/isle_Cjg_vxoKuUKzCmglN36Lgk\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:38.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 19  - To go hay wire ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nA lot of things things are going wrong,  there are many things that are going wrong. Usually you feel like things have gone haywire when you don't have a lot of\ncontrol over them.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DJWdGK0lKMU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DJWdGK0lKMU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DJWdGK0lKMU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DJWdGK0lKMU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/cb9t2Prf9Jygq3SFpX3bLCymIHo\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:42.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 20 - Pep Talk ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Pep talk , When someone gives you a pep talk it is to build you up to help you accomplish something. In sports a coach might give a player a pep talk before the game to bolster his confidence. At work the boss might give you a pep talk to get you to do a better job.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xZykAec3TNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xZykAec3TNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xZykAec3TNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xZykAec3TNM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/zWW9kWqvFIIEOhMbkqD3vUXVkWU\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:47.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 21  - TGIF  ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : TGIF Thank God its Friday\nPractice English lessons regularly to speak in English fluently and confidently",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/t6UyInLWik0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/t6UyInLWik0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/t6UyInLWik0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "t6UyInLWik0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/RkPWNuTo-761C3JmVmEWeUwVKmM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:51.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 22 - Favour  ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Favour -  A small helpful thing that  somebody does for someone.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VwZFaGjqgCw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VwZFaGjqgCw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VwZFaGjqgCw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VwZFaGjqgCw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/dSDdGidjadwWVHPhBUw0cltBV1c\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:56:55.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 23 -Jump on the bandwagon ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : Jump on the bandwagon -  To do what every one is doing | to follow the trend | to join the movement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kaH1nEfZ1QE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kaH1nEfZ1QE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kaH1nEfZ1QE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kaH1nEfZ1QE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kaH1nEfZ1QE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Y-21CIZdTI3GzMJi7P8adMhtDAU\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:00.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 24  - Take on board ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : take on board  -  to understand & accept ideas, suggestions & opinions which may you may use for better results.\r\n\r\nThis phrase is best used in a business setting, generally team members, take on board ideas and suggestions from their team leaders or managers for productive results.\r\n\r\nvocabulary and phrases",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pDIX-9DQXqA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pDIX-9DQXqA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pDIX-9DQXqA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pDIX-9DQXqA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pDIX-9DQXqA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/e3bX6UM_LQVoPAY1Y1-0w5247K0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:05.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 25 - Pull your socks up( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is : pull your socks up -  to ask someone to behave properly or to ask someone to improve or perform better.\r\n\r\nYou can also say , pull up your socks, if your aren't satisfied with someone, and want them to do better, or improve at some thing.\r\n\r\nNote  one thing :  You should only say this idiom to someone, such as your child, your student, your employee, or possibly to a friend. You shouldn't say it to someone like your boss, your teacher, your parents, or anyone you should speak to respectfully.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Whwmf0jM9s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Whwmf0jM9s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Whwmf0jM9s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1Whwmf0jM9s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1Whwmf0jM9s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/HPr0BYgyUQEz53_StH9j6uUV1gs\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:13.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 26 - All hell broke loose ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nA Free Esl lesson - Pronunciation practice | English Vocabulary | free online English lesson | free English Grammar | Toefl | Fluent English Practice\r\n\r\n\r\nToday's new word is : all hell broke loose -  Situation becoming violent or out of control\r\n\r\nYou can also say , pull up your socks, if your aren't satisfied with someone, and want them to do better, or improve at some thing.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KBQoaYz3tuI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KBQoaYz3tuI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KBQoaYz3tuI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KBQoaYz3tuI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KBQoaYz3tuI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/98XRqRZkBRDDElrogbhy8735iG0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:18.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 27 - Back to square one  ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nVocabulary for esl learners, learn to speak fluent English\n\nTodays new word is \" back to square one\"\n\nBack to square one , this is an idiom used to describe some activity that failed, and you had to start working on it from the beginning \n\nso,  If you are back to square one, it means, you have to start from the beginning again. In short, you have to stop and start again, usually because something isn't working as well as expected.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HGOh8JAVxrc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HGOh8JAVxrc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HGOh8JAVxrc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HGOh8JAVxrc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HGOh8JAVxrc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/RTn0vlruo_VS6l7DoivYy6EhCo4\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:26.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 28 - To bear the burnt( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is ; Bear the brunt, \n\nIt basically means, receiving the worst part of something unpleasant or harmful, for example an attack, or an accident.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Thf2wdE7PQs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Thf2wdE7PQs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Thf2wdE7PQs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Thf2wdE7PQs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Thf2wdE7PQs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/zNFoy3-LRAb3io-WhBPv1-Wds5k\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:31.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 29 - To drop a bomb shell ( Free English Lessons)",
+    "description": "This idiom means to announce something that changes a situation drastically and unexpectedly",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nkcAR1Hn35U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nkcAR1Hn35U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nkcAR1Hn35U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nkcAR1Hn35U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nkcAR1Hn35U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/yAB4vK-SwK8gDdBuhIpjLdKckx0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:36.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 30 - An Eye opener ( Free English Lessons)",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nToday's new word is ; An Eye opener , It basically means, Something that surprises you and teaches you new facts about life or people. \ned English, English lesson, English course, courses",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5yXg__kugrk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5yXg__kugrk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5yXg__kugrk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5yXg__kugrk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5yXg__kugrk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/k1FtRuMMuqhv42qRy-DoDRIXQOw\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:57:57.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 31 - To Cost the earth  ( Free English Lessons)",
+    "description": "Today's new word is ; Cost the earth , It basically means, Something that really expensive or costly",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wV3UrB5HjXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wV3UrB5HjXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wV3UrB5HjXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wV3UrB5HjXw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wV3UrB5HjXw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/9M8XyD_0hT6-UAgmiVAsUl_nXHc\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:58:44.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 32 - Chew the rag ( Free English Lessons)",
+    "description": "Todays new idiom is : Chew the fat |  Chew the rag\nMeaning: to have a long and friendly chat with some one about something",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xKkumtTQrto/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xKkumtTQrto/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xKkumtTQrto/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xKkumtTQrto/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xKkumtTQrto"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/zv8wSsWs-dNtVfBTAB8ckXiZlVM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:58:48.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 33 - A Gut Feeling ( Free English Lessons)",
+    "description": "Todays new idiom is : A Gut Feeling\n\nTo have a gut feeling,  If you have a gut feeling, you sense something about a person or a situation, without knowing why, but you're sure what you sense or feel is certainly true.\nYou always get a gut  feeling  when you are you are certain or right about something or someone, although you don't have any good reason to explain why you feel so.\n\nIn other words. A gut feeling is a sense of certainty which comes unknowingly from within you, which makes you feel certain about something or some one.  gut feelings, are sudden and strong judgments whose origin we can't immediately explain. It's  just an emotional reaction which emerges from your inner force.\n\nMany people think , going with the gut feeling as a winning strategy. So, Have you ever had a \"gut feeling\" about something that's later turned out to be true?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q6RYan76feA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q6RYan76feA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q6RYan76feA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q6RYan76feA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q6RYan76feA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/IPYic7g-XFPFcFPZ190KHPAKSmA\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:58:52.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - English vocabulary, Idioms and Phrases E34",
+    "description": "Todays new idiom is : A fool's Paradise\n\nMeaning :\n\nA fool's paradise, If you say that someone is living in a fool's paradise, you are actually criticizing them, because, they are not aware that their present happiness is likely to change. It basically means to be happy on a false hope or you can say a state of happiness for foolish or unfounded reason.\n\nSomeone who lives in a fool's Paradise is just living on false expectations, they are happy on the basis of an unrealistic hope which will never be fulfilled, because they are ignoring a problem or do not realize that it exists. \n\nIn short it means, A state of happiness on baseless hopes.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uzf_aEhhWkQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uzf_aEhhWkQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uzf_aEhhWkQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uzf_aEhhWkQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uzf_aEhhWkQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/l2f0OfrKJKQwZeVr2HkDS_C55E0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:58:57.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary -- E 35 |  English Lesson",
+    "description": "Daily Video Vocabulary Episode 35 -- Learn a new English word every day with sentence structure, Grammar, and correct pronunciation in neutral accent.\n\nToday's new word is FLABBERGASTED\n\nMeaning -- To be very shocked and surprised.\n\nIt is used to describe an individual's reaction of being 'surprised' or 'shocked' due to a pleasant or an unpleasant incident.\n\nA good news or a tragedy can leave someone feeling flabbergasted.\nIn short, anything unexpected or sudden, makes you feel flabbergasted.\nThe word 'flabbergasted' is an Adjective as it describes a feeling of a person or individual.\n\nLearn to speak fluent English with Neutral accent.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N43g26o_yic/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N43g26o_yic/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N43g26o_yic/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N43g26o_yic/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N43g26o_yic"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/zi8d_I7Tzbikaolj4NCxh3f6P58\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:59:01.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary - Episode 36 - Arduous",
+    "description": "(Reup)\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/0blK/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7Yzj9gnIFJY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7Yzj9gnIFJY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7Yzj9gnIFJY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7Yzj9gnIFJY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7Yzj9gnIFJY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7Yzj9gnIFJY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/VOJAHcY0jsvbIAPl1BUnPZ_mmz0\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:59:05.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary episode no 37 - Appease | Free English Lesson",
+    "description": "Daily Video vocabulary episode no 37 - Appease\nEnglish lesson for non native English speakers to speak fluent English with neutral accent. \n\nThis means to calm or satisfy a person, usually by giving what was asked for. It could also mean , giving into the demands of someone or a situation. When your friends are arguing, you try to calm down the situation, that means you appease such a situation.  Sometimes, store managers have to give extra benefits to appease angry customers. So basically, the word 'appease' means, to calm or satisfy a person, or a desire, by giving what is asked for or needed.\n'Appease' is a Verb, as it is an act of satisfying or calming. \n\n\nExample 01 : The audience was not appeased by the most awaited film of the year. \nExample 02 : I don't understand how you appease your  angry boss each time ! Please teach me the trick.\nExample 03 : The father was able to appease his naughty children by promising them some cookies.\nExample 04 : Sometimes, store managers have to give extra benefits to appease annoyed customers.\nExample 05 : When you are on a diet, the best way to appease your hunger is by having fruits.\nExample6 : The attorney appeased his client's anxiety by assuring him a positive outcome.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zb7TNqI-cwU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zb7TNqI-cwU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zb7TNqI-cwU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zb7TNqI-cwU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zb7TNqI-cwU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/7V63RSQO3F3oXmoFbJ8NuvzdrvI\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:59:10.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 38 - Skeptical",
+    "description": "Help us caption & translate this video!\n\nhttp://amara.org/v/0blD/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rwzRL287EOY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rwzRL287EOY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rwzRL287EOY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rwzRL287EOY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rwzRL287EOY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rwzRL287EOY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6Kj7-jvO7LFBl-kzY8df2P_23jU\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:59:14.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary | Episode 39 - Impeccable  | Free English Video Lesson",
+    "description": "English Video Lesson for non native English speakers to speak fluent English with neutral accent.\n\nDaily Video Vocabulary Episode 39 - Impeccable  Free English Video Lesson\n\nSometimes certain things seem just perfect. It could be an absolute idea, a perfect trait of a person or anything that appeals to you and is free from defects. Don't you want our performances at our work places to be impeccable ? \n\nThat means, you want your performance to be perfect or flawless. Or don't you want to have an impeccable approach towards life in order to make our lives worth living? When you pay through your nose at a five star hotel, you expect impeccable service. Thus, 'impeccable' means something that is flawless or free from any faults. \n\nAs the word 'Impeccable' describes something or someone being flawless, it is an Adjective.\n\n\nExample 01 : We got an impeccable deal for this apartment, I couldn't ask for more.\nExample 02 : My grandfather had always been admired for his impeccable style of dressing.\nExample 03 : Impeccable timing ! My flight had landed in the city, before it started raining.\nExample 04 : Mr. David always achieves his sales target due to his impeccable marketing skills, it's very hard for a customer to turn him down.\nExample 05: Stacy was dressed impeccably for the dance; everyone noticed how flawless she looked.\nExample 06 : The impeccable launch of Windows 8 phone by the Microsoft CEO Ballmer, left the audience speechless.\nExample 07 : We saw an impeccable piece of art work at the exhibition today.\nExample 08 : In today's competitive world, if you don't offer impeccable services to your customers, they are likely to be put off for life.\nExample 09 : The virgin olive oil is known for its impeccable taste and aroma.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mUaestMraZI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mUaestMraZI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mUaestMraZI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mUaestMraZI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mUaestMraZI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/2PmRttU2wuSswvbzr9pYXk-4FEM\"",
+   "id": "UExwekszLU4zakFKM3NFTE9CcDZHNmhLdkxENFhMU2pzci5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2019-10-11T09:59:33.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary - Episode 40 |  Free English lesson ( ESL )",
+    "description": "Free English video lesson to speak fluent English with a neutral accent.\n\nDaily Video Vocabulary - Episode 40 - \n\nTo open a can of worms.\nSometimes, certain things that you say or do, put you in a situation which is hard to deal with, you find yourself in a big mess. This means knowingly or unknowingly you have landed up in a difficult situation. \n\nTo open a can of worms, basically  means, to be in a difficult situation or a very big problem. By opening a can of worms, you actually open the door to a whole set of new problems.  So when you find yourself in a complex situation dealing with such a situation, is very difficult and you actually get caught up in the middle of  worms. You can use this phrase to describe a situation which is difficult to handle  or solve and you feel stuck, not knowing how to come out of such a messy situation with the right solution. \n\nExample 01 : I won't ask about Maria's divorce status, I would be opening a can of worms for myself.\n\nExample 02 : Repairing a car machine is one thing, but dealing with a truck machine is a whole can of worms for the mechanic, as he is a fresher is this field.\n\nExample 03 : The shortcut to the highway seemed easy on the map, but when we went through, it was nothing, but a can of worms.\n\nExample 04 : After hyping up the political scandal, the media found themselves in a can of worms.\n\nExample 05 : Sam is focusing on his final year of graduation, advising him to take up a job this year, would open a can of worms.\n\nExample 06 : Declaring the company's poor financial position to our investors, will open a can of worms, which will lead to further complications.\n\nExample 07 : By bringing up the fight you had with Lisa last night, you are opening a can of worms as it will lead to a further mess.\n\nExample 08 :  When I asked Mary about her new means of earning money, she got offended, I didn't realize that I was opening a can of worms.\n\nExample 09 : With so much diversity in our country, making a public comment on any community, would open a can of worms.\n\nExample 10 : Buying  the shares of a company we don't know of, would be opening a can of worms. \n\nExample 11 : Be careful ! If you get into a partnership business with your nasty friend, William, you are opening a can of worms for yourself. \n\nExample 12 : William opened a can of worms by double timing his girlfriend.\n\nExample 14 : The Minister's insensitive speech towards the minorities, opened a huge can of worms for his party.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aHkNyfdPSzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aHkNyfdPSzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aHkNyfdPSzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aHkNyfdPSzk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aHkNyfdPSzk"
+    }
+   }
+  }
+ ]
+}
