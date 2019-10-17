@@ -5,7 +5,7 @@
 			"LIST_VIDEO_ICON": "https://dl.myket.ir/newresizing/resize/medium/png/icon/e4cdd2a3-73a7-4665-842b-735d5d807c54_.png",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ39ePPxzbbdzxp0xNGo2KtL",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/Basic_Grammars_json.txt",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/yd2bg9at2xrq47k/Basic_Grammars_json.txt?dl=1"
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/yd2bg9at2xrq47k/Basic_Grammars_json.txt?dl=1"
 		},
 		{	
 			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 1",
@@ -13,7 +13,7 @@
 			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ0_TYJNK00Wj-9_9UnLVveV",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/English%20Grammar%20Lessons%20-%20Part%201",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/jp2yaimnavndi1x/English%20Grammar%20Lessons%20-%20Part%201.txt?dl=1"			
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/jp2yaimnavndi1x/English%20Grammar%20Lessons%20-%20Part%201.txt?dl=1"			
 		},
 		{	
 			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 2",
@@ -21,7 +21,7 @@
 			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ3LPTsgLgQhj9UB1ge6-_cM",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/English%20Grammar%20Lessons%20-%20Part%202",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/1t9za0mxhqj0k64/English%20Grammar%20Lessons%20-%20Part%202.txt?dl=1"						
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/1t9za0mxhqj0k64/English%20Grammar%20Lessons%20-%20Part%202.txt?dl=1"						
 		},
 		{	
 			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 3",
@@ -29,7 +29,7 @@
 			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2r4YfUsEfgOxQ3sm395rRI",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/English%20Grammar%20Lessons%20-%20Part%203",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/ussv549x27ntvk1/English%20Grammar%20Lessons%20-%20Part%203.txt?dl=1"						
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ussv549x27ntvk1/English%20Grammar%20Lessons%20-%20Part%203.txt?dl=1"						
 		},
 		{	
 			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 4",
@@ -37,7 +37,7 @@
 			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2r4YfUsEfgOxQ3sm395rRI",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/English%20Grammar%20Lessons%20-%20Part%204",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/n5obi2fs249gc4q/English%20Grammar%20Lessons%20-%20Part%204.txt?dl=1"						
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/n5obi2fs249gc4q/English%20Grammar%20Lessons%20-%20Part%204.txt?dl=1"						
 		},
 		{	
 			"LIST_VIDEO_NAME": "Daily English Vocabulary - Part 1",
@@ -45,7 +45,7 @@
 			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/Daily%20English%20Vocabulary%20-%20Part%201",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/9n6tbrvidk5gq5e/Daily%20English%20Vocabulary%20-%20Part%201.txt?dl=1"						
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/9n6tbrvidk5gq5e/Daily%20English%20Vocabulary%20-%20Part%201.txt?dl=1"						
 		},
 		{	
 			"LIST_VIDEO_NAME": "Daily English Vocabulary - Part 2",
@@ -53,7 +53,7 @@
 			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/Daily%20English%20Vocabulary%20-%20Part%202",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/9i36tnjgffjr0g8/Daily%20English%20Vocabulary%20-%20Part%202.txt?dl=1"			
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/9i36tnjgffjr0g8/Daily%20English%20Vocabulary%20-%20Part%202.txt?dl=1"			
 		},
 		{	
 			"LIST_VIDEO_NAME": "Daily English Vocabulary Part - 3",
@@ -61,6 +61,6 @@
 			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ1msJ32gcgmIbtB-ufrUlqB",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/Daily%20English%20Vocabulary%20Part%20-%203",
-			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/699z6o7er3hwdiv/Daily%20English%20Vocabulary%20Part%20-%203.txt?dl=1"			
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/699z6o7er3hwdiv/Daily%20English%20Vocabulary%20Part%20-%203.txt?dl=1"			
 		}		
 	]
