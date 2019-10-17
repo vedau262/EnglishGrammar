@@ -5,7 +5,7 @@
 			"LIST_VIDEO_ICON": "https://dl.myket.ir/newresizing/resize/medium/png/icon/e4cdd2a3-73a7-4665-842b-735d5d807c54_.png",
 			"LIST_VIDEO_ID": "PLpzK3-N3jAJ39ePPxzbbdzxp0xNGo2KtL",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/Basic_Grammars_json.txt",
-			"LIST_VIDEO_JSON_BACKUP "https://www.dropbox.com/s/yd2bg9at2xrq47k/Basic_Grammars_json.txt?dl=1"
+			"LIST_VIDEO_JSON_BACKUP": "https://www.dropbox.com/s/yd2bg9at2xrq47k/Basic_Grammars_json.txt?dl=1"
 		},
 		{	
 			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 1",
