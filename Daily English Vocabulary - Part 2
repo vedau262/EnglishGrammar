@@ -1,0 +1,1765 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/AWatMGf-oZk34wCsGCx2SYN6qU8\"",
+ "pageInfo": {
+  "totalResults": 40,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/qsYG0LjEJ-E9wd_hKc8MXKEI3t4\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-11T10:00:00.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vovabulary - Episode 41 | Profusely | Free English Video Lesson ( ESL)",
+    "description": "Free English Video Lesson to speak fluent English with neutral accent.\n\nDaily Video Vovabulary - Episode 41 - Profusely\nProfusely basically means to do something in excess or over doing something. It describes something done in a huge amount or largely. \n\n\nExample 01 : While taking Lucifer to the hospital, he was bleeding profusely.\n\nExample 02 : She planted a profuse amount of flowers in her garden.\n\nExample 03 : The old woman thanked us profusely for giving her a lift in the heavy rains.\n\nExample 04 : After the long match, the football players were sweating profusely.\n\nExample 05 : Besides feeling weak, Jenifer was shivering profusely despite the medication.\nExample 06 : As Sarah requested profusely, I had to join her for lunch with her father.\n\nExample 07 : Harry apologized profusely to his annoyed girlfriend, for not returning her call.\n\nExample 08 : This book is great ! It is profusely illustrated with sufficient images.\n\nExample 09 : Mary is allergic to flowers, after smelling them  she starts sneezing profusely.\n\nExample 10 : Lisa caught everyone's attention at the party, as she ate in a profuse manner.\n\nExample 11 : After thinking profusely, I decided to take up the new job offer as it seemed very exciting.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/73V1jnaIfu8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/73V1jnaIfu8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/73V1jnaIfu8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/73V1jnaIfu8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "73V1jnaIfu8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Usjxc405INBjbRWtQrFe3JqshTk\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:27.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily video Vocabulary Episode 42 |  Invariably | Free English Video Lesson",
+    "description": "Free English video lesson to speak fluent English with neutral accent. http://www.letstalkpodcast.com\n\nDaily video Vocabulary Episode 42\n \nInvariably \n\nMeaning : Something that always happens or something that is constant.\n\nIn short, you use the word invariably, when discussing things that happen all the time or just don't change. Mary invariably visits her grandmother every Saturday. This means, she regularly visits her grandmother every Saturday.\n\nSo basically, when an action is repeated regularly, you use the word invariably.\nAs the word invariably indicates that an action happening constantly, it is an Adverb.\n\nExample 1 : Many people invariably start each morning with a hot cup of tea.\n \nExample 2 : Even though Sarah is on a diet, she invariably lands up eating something sweet at night.\n\nExample 3: The price of gold is invariably on a rise.\nExample 4 : In spite of repeated warnings, John is invariably late for the meetings.\n\nExample 5 : Peter invariably gets drunk in every party.\n\nExample 6 : Due to Rosie's efficiency, she invariably receives compliments from her boss for all her projects.\n\nExample 7 : The experienced boxer invariably wins every boxing match.\n\nExample 8 : Whenever Rams wears a white shirt, he invariably lands up spilling something over eat.\n\nExample 9 : Sam invariably forgets to charge his mobile phone, getting in touch with him is really difficult.\n\nExample10 : Due to Kelly's  positive approach towards life, she is invariably happy over years.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jR-eDkKEW04/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jR-eDkKEW04/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jR-eDkKEW04/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jR-eDkKEW04/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jR-eDkKEW04"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ldnXl3b5wvfyM1DYuu0Zq6huC8Y\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:31.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary  - Episode 43 | Free Spoken English Video",
+    "description": "Free English video lesson to speak fluent English with neutral accent. http://www.letstalkpodcast.com\n\n\n'Butterflies in your stomach'\n\nBefore you go on a date for the first time, you feel nervous because you have never experienced such a situation before and you don't know what it would be like. You experience a mixed feeling of nervousness and excitement at the same time.\n\nThe idiom 'butterflies in your stomach' basically means to feel nervous before doing something very important or stressful.\n\nFor example, you are nervous before an important class test, this could be due to lack of preparation. This means, you have butterflies in your stomach.\n\nHaving butterflies in your stomach may give you a tickling sensation in your stomach due to being nervous about something.\n\nExample 01 : Before going on the roller coaster, I had butterflies in my stomach, as I had never experienced it before.\n\nExample 02 : When Maria was waiting to be called for her interview, she had butterflies in her stomach as it was her first interview.\n\nExample 03 : Before receiving the final year examination results, Mary had butterflies in her stomach.\n\nExample 04 : When Catherine's boyfriend went down on his knees to propose marriage, she had butterflies in her stomach.\n\nExample 05 : As dental treatments are painful, little John has butterflies in his stomach whenever he visits his dentist.\n\nExample 06 : When I was questioned by the police for the murder in my building, I had butterflies in my stomach.\n\nExample 07 : Flying for the first time, the lady pilot had butterflies in her stomach when he took off.  \n\nExample 08 : Allwyn had butterflies in his stomach when he held his new born baby for the first time, it was a whole new feeling for him.\n\nExample 09 :  Leena had butterflies in her stomach on her first day of school as a teacher, as she didn't know anyone around.\n\nExample 10 : All the employees had butterflies in their stomach when they were called for an urgent meeting by their seniors.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iSSuDzMhQBg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iSSuDzMhQBg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iSSuDzMhQBg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iSSuDzMhQBg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iSSuDzMhQBg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/R2TYhkPct8rqH4E5xFbltAvG278\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:35.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary - Episode 44 - Admonish |  Free English Video lesson",
+    "description": "Free English Video Lesson - to speak fluent English with a neutral accent.\n\nDaily Video Vocabulary Episode 44\n\nAdmonish\n\nAt some point of time in your life, your teacher or mother may have scolded you for doing something you shouldn't have.  It could be due to an action which was not acceptable or approved of. \n\nAdmonish basically means, to scold or strongly warn someone. It means to let someone know that you are not happy with his or her actions, for example, you often scold children for their bad behavior, it means, you are admonishing them. When a college principal strictly warns his students due to their poor attendance, he is actually admonishing them.\n\nThus, when you admonish someone, you are actually telling them very seriously that they have done something wrong or you rare warning them very sternly.\nHence, it is a mild, but serious scolding.\n\nAs the word 'admonish' indicates an action of scolding or warning, it is a Verb\n\nExample 01 : Shimona  was admonished by her  teacher for cheating in her final exams.\n\nExample 02 : The driver was admonished by the policeman for being drunk while driving..\n\nExample 03 : The Manager admonished the senior executive for being rude with the client in the meeting.\n\nExample 04 : Mary was admonished by her mother after being caught having alcohol, as she is just fourteen.\n\nExample 05 : The bouncer, admonished the girls  for their misbehavior at the discotheque.\n\nExample 07 : The Police officer not only admonished Sam due to his reckless driving, but also took away his driving license. \n\nExample 08 :  The Manager decided to quietly admonish  the new staff member in private, rather than issue an official warning for arriving late on her first day.\n\nExample 09 : \"Shawn, I admonished you about eating the food in the trashcan!\" yelled Shawn's mom. \"I'm so sorry Mommy,\" said Shawn.\n\nExample 11 : For so many years, the lighthouse has been admonishing  seamen of the approaching danger.\n\nExample 12 : Some Hasty Decisions taken  in life can have an admonishing effect on your future.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hSTXf5PbhwA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hSTXf5PbhwA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hSTXf5PbhwA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hSTXf5PbhwA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hSTXf5PbhwA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/jjD4vJ2yArUhKXeQoLd5NR4xUA4\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:39.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily video Vocabulary Episode 45   Futile",
+    "description": "Free English video lesson to speak fluent English with neutral accent. http://www.letstalkpodcast.com\n\nDaily video Vocabulary Episode 45\n \nFutile\n\nYou often do certain activities and later realize that they were hopeless or useless, or were not worth doing.  \n\nFutile, basically means doing something that is not capable of producing any result, or something that is not important.\n\nFor example, when your father is angry and yelling, you try to cool him down but realize that it's not helping, that means your attempt to cool him down was futile.\nIt means you do something that was not worth attempting or something totally hopeless and not successful.\n\nAs the word futile describes something that is useless or hopeless, it is an adjective.\n\n\nExample 01 : Conducting research and development for the new mobile phone proved futile, as it failed in the market after it's grand launch.\n\nExample 02 : After a mile or so, the thief realized that his attempt to outrun the police was futile, and he finally surrendered.\n\nExample 03 : Practicing for my Math exam was futile as I couldn't solve the paper in the examination.\n\nExample 04 : When Rosie is discussing about her career plans, Mary's futile comments begin to annoy her.\n\nExample 05 : Mother shouted at her son, \"Don't waste your time on futile activities, like talking on the phone with your friends before the exams.\"\n\nExample 06 : Expecting our bus to come on time, is futile, as it is always late.\n\nExample 07 : Investing in property now is futile, as prices are expected to drop in a few months.\n\nExample 08 : Requesting the  boss for a salary raise now futile, as he is upset due to my long  absenteeism at work.\n\nExample 09 : Jack told Mary, \"Giving you a call is futile, you never answer it as you are always busy.\"\n\nExample 10 : Asking our  neighbors to lower down the sound of their music system is futile, they always play it loud.\n\nExample 11. It's futile trying to persuade John to visit Gym, he is just growing like a sack of potatoes.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l2BGToyjIfI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l2BGToyjIfI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l2BGToyjIfI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l2BGToyjIfI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l2BGToyjIfI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/JcgOCCkK3bKk8nmDZ6PAe0gyz9U\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:43.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily video vocabulary - Episode 46  Sought-after",
+    "description": "Free English Lesson to speak fluent English.\n\nDaily video vocabulary - Episode 46\n\nSought-after\n\nSometimes there is a great desire for certain things due to their growing trend or due to the benefits you get from them.\n\nThe word sought-after, basically means, something that is in great demand or something that is desired by the people.\n\nIt could be a newly launched luxurious car that is desired by many people, but not all can buy it. It means, such a car is sought-after.\n\nSomething that is sought-after is in great demand, usually because it is rare or of very good quality.As the word sought-after describes something being highly demanded or desired, it is an adjective.\n\nExample 01 : Fairness creams are the most sought-after cosmetic products, you find them in every store.\n\nExample 02 : The newly launched apple i5  is the most sought-after  mobile phone today, even though it is highly priced.\n\nExample 03 : Stiletto shoes and big dial watches are the most sought-after accessories among teenage girls as they help to make a fashion statement.\n\nExample 04 : Brad Pitt, is one of the most sought-after Hollywood heroes because of his charming looks and great a personality.\n\nExample 05 : When Rachel asked her friend to recommend what's best at the café, she said, \" You must try their hot coffee, it's the most sought-after beverage on their menu.\"\n\nExample 06 : Aerobics is one of the most sought-after forms of exercise. It really helps you to burn a good amount of calories.\n\nExample 07 : When the concept of call centers came in our country, call center jobs were the most sought-after among fresh graduates.\n\nExample 08 : Due to her good looks, Tina is the most sought-after young employee in her office, all the men keep complimenting her.\n\nExample 9 : An Olympic gold medal is the most sought-after prize in sport. Every sports person dreams to achieve it\n\nExample 10 : Video games are the most sought-after among young boys.\n\nExample 11 : India is one of the most sought-after tourism destinations in the world.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/u2Jiu5_eYl0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/u2Jiu5_eYl0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/u2Jiu5_eYl0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u2Jiu5_eYl0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "u2Jiu5_eYl0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/-DKgcpUuOplCwemLL3qfqKX5LxM\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:47.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 47 :   Rigid",
+    "description": "✅ https://youtu.be/puNo0sxC3VI\n👉 Check the latest Video -  American Idioms I love to use the most?\n\nDaily Video Vocabulary Episode 47 : \n\nRigid :\n\nThere are certain things in life which are hard to change; it could be an idea ,a thought or even a habit.\n\nRigid basically means something that is not flexible or just does not change.  When you are unable to bend or move something, that means,  it is rigid.\n\nFor example, When your boss is very particular about the way the office functions and doesn't wish to change or bend the rules and regulations under any circumstances, that means he is a rigid man. Rigid also means something that is not flexible and is not going to change , no matter what happens.\n\nWhen you are stiff or unable to move because of a strong emotion such as anger or fear, it means you are rigid.\n\nAs the word rigid describes something that is incapable of change, it is an adjective.\n\n\nExample 01 Maria forced Sam to dance in the party, as he was standing rigid like a statue. \n\nExample 02 : fresh graduates, today  prefer working in an MNC, instead of taking up a Government  job,  due to their rigid rules and orthodox way of working.\n\nExample 03 : When the little girl saw the road accident take place, she was rigid with fear.\n\nExample 04 : Mac computers are always trusted for their rigid performance. \n\nExample 05 : Jenifer is disappointed with the company's new appraisal policy as it's rigid. She can't expect more than a ten percent growth every year.\n\nExample 06 : Peter is a very stern and rigid professor, he does what he says, there is no scope of influencing his thoughts.\n\nExample 07 : To keep growing personally and professionally, one must not be rigid as it restricts growth.  \n\nExample 08 : I admire my boss, he conducts himself with rigid dignity.\n\nExample 9 : Victor told his friend, \" Don't have such a rigid attitude when you make big decisions in your life, you may overlook good opportunities and regret later.\"\n\nExample 10 : My mother doesn't allow me to go to late night parties due to her rigid values and morals.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/074GUUZ2uiM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/074GUUZ2uiM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/074GUUZ2uiM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/074GUUZ2uiM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/074GUUZ2uiM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "074GUUZ2uiM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/pgB41eGThOfBbawG76TC6QIL1FA\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:51.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 48 - In the nick of time.",
+    "description": "Learn to speak fluent English with daily video vocabulary -- Learn new English words, idioms and phrases with example sentences. \n\n\nDaily Video Vocabulary Episode 48 - In the nick of time.\n\nAt some point of time in your life, you must have faced a situation where you did something just in  time, with a few seconds to spare, or before it was too late, which in turn saved you from unpleasant consequences.\n\nThe idiom 'in the nick of time' basically means being able to get something done, just before the deadline. When you do something in the nick of time, you are doing something just before the time runs out, In other words you are doing it on the exact moment.\n\nSo when you do something just in time, or before time runs out, it means you have done your work in the nick of time. \n\nWhen a seriously ailing patient is admitted in hospital just in time, it means he reached the hospital in the nick of time, ruling out any negative consequences.\n\n\nExample 01 : I got to the station just in the nick of time and jumped on the train, as it was leaving.\n\nExample 02 : In spite of getting stuck in the traffic, we reached the airport in the nick of time and made to our flight. \n\nExample 03 : Little John was desperate for a wee, and got to the toilet just in the nick of time.\n\nExample 04 : Jane got her application form submitted to the college in the nick of time, If she had arrived a day later, she would've missed the deadline.\n\nExample 05 : Jack made it to the fuel station in the nick of time, else he would have been stranded in the middle of the highway without any fuel.\n\nExample 06 : Janet was almost drowning in the swimming pool, the lifeguard spotted her and saved her in the nick of time.\n\nExample 07 : The bomb squad arrived in the nick of time and diffused the explosives, saving many innocent lives.\n\nExample 08 : William completed the financial reports in the nick of time, before presenting them to the client, he had all the figures on the tip of his tongue.\n\nExample 09 : Spiderman swept down and saved the damsel in distress just in the nick of time.\n\nExample 10 : The doctors decided to operate the injured man in the nick of time, to save his life.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/84iKsU_xd8E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/84iKsU_xd8E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/84iKsU_xd8E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/84iKsU_xd8E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/84iKsU_xd8E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "84iKsU_xd8E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/FK5dBqw33kdWBEzYUOkpzRihM4c\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:53:56.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode -- 49   Procrastinate",
+    "description": "Learn to speak English with Words with their meanings, Idioms, Phrases, Correct usage of Grammar.\n\nDaily Video Vocabulary Episode -- 49 \n\nProcrastinate\n\nOften certain tasks may not interest you, so to avoid boredom, you delay in doing them. You put them off for some other day.To Procrastinate basically means to put off or delay doing something to a later date, due to your  carelessness  or laziness.\n\nTo put something off to a future time is an act of procrastination.\n\nSo when you don't focus on something that is important and waste your time in doing other things, it means you are procrastinating.\n\nTHE HABIT OF PROCRASTINATING MEANS DELAYING SOMETHING THAT REQUIRES IMMEDIATE ATTENTION.\n\n It also means to POSTPONE DOING What one should do immediately but keeps Delaying  NEEDLESSLY.\n\nWe generally procrastinate due to distraction, laziness or lack of interest in doing something.\n\nExample 01 : Mother warned her son, \" In this competitive world, don't procrastinate in deciding on the job offer, you may lose a good opportunity.\n\nExample 02 : The teacher told her class, \" If you keep procrastinating your homework, you will be punished.\"\n\nExample 03 : After the retirement Eric had planned to learn basic computer skills, so he could write emails, but has always procrastinated his plans.\n\n Example 04 : Every time mother asks Rachel about her wedding plans, she procrastinates  the discussion ,saying  she is yet not ready to get married.\n\nExample 05 : John has been procrastinating to fix the broken rear tail light for more than a year.\n\nExample 06 : If you find a suspicious mole  on your skin, get it examined right away and do not procrastinate, as it could lead to something serious.\n\nExample 07 : Mary always procrastinated in proposing John and one fine day she saw him married to someone else.\n\nExample 08: Alice  kept on procrastinating hitting the gym, until one fine day she found herself weighing beyond a 300 pounds.\n\nExample 09 :  Though Thomas was smart, but his constant procrastination led him to be late with almost every assignment.\n\nExample 10 : After the age of 40, a pain in the chest, should be examined without procrastination, as it could lead to a heart attack.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I9hmVTMs-NM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I9hmVTMs-NM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I9hmVTMs-NM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/I9hmVTMs-NM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "I9hmVTMs-NM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/y1fyfz3WirX9TMDVfiVj-2-X8UA\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:54:00.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary Episode 50 - Taboo",
+    "description": "Help us caption & translate this video!\n\nhttp://amara.org/v/0bky/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eJvPmHJr1ZY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eJvPmHJr1ZY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eJvPmHJr1ZY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eJvPmHJr1ZY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eJvPmHJr1ZY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eJvPmHJr1ZY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/eoFyhajwHOdAQvWAGjQxZzNvt0E\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:03.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily video vocabulary -- Episode 51 - TO GET EVEN",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily video vocabulary -- Episode 51 - TO GET EVEN\n\nWhen someone does something or says something that is wrong or unacceptable, it leaves you feeling very hurt. In such a situation you wish to teach him a lesson to make him realize how you felt because of his act. So you decide to react in an equally bad manner just like he did.\n\nThe idiom 'get even', basically means to do something equally bad to someone who has done bad to you. It also means to take  revenge or punish someone who did something wrong to you.\n\nWhen you get even with someone, you make him realize what wrong he did to you and how bad you felt at that time. It also means you are standing up for something wrong done to you.\n\nIf you play a prank on your friend who did the same with you, it means you are getting even with him. You are teaching him a lesson by doing something equally bad to him. \nYou often gain your peace of mind when you get even with someone  you need to.\nAlright, Now that you know what this idiom means, lets take a look at some example sentences, to see how you can use it in your daily conversation,. \n\n1 Mike wants to get even with Peter for taking over his project while he was on a vacation.\n\n2. India wants to get even with Australia after losing two consecutive matches, to retain the number position in test cricket.\n\n3. Peter parked his car in Tom's parking slot and refused to remove it, Tom got even with peter by fixing a banana in the exhaust pipe of his car.\n\n4. Little John got even with his sister, by writing on her face with a permanent marker, while she was sleeping.\n\n5.Father  told Jack, \"Don't  come home crying, always get even and finish your silly fights at school. \n\n6. After the store had refused  a replacement  for a faulty computer, Mrs. Smith complained to  the consumer court, to get even\n\n7. Peter is waiting for the right opportunity to get even with Sam for insulting him at the party. \n\n8. Being harassed by the telemarketing calls, William  got even by placing a fake order for  one of their  products.\n\n9. The best way to get even with someone who hurts you, is to forget and forgive.\n\n10. I would like to share with you an experience about my neighbor, Peter got even with one of his colleague Lisa  by pouring used oil underneath her car each night, as a result she had to spend huge money to check the oil leak at the garage, time again. Finally Lisa got tired and sold her car, and  bought a new one, just to her  surprise even the new car had a oil leak in few days.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ORmtAl_XlxE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ORmtAl_XlxE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ORmtAl_XlxE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ORmtAl_XlxE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ORmtAl_XlxE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ZqKm3nOQ9OqkhSaqU2w3Vp6XSXU\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:08.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary  - Episode 52 -  To Yearn  Free English Video ( ESL)",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary - Episode 52 \n\nYearn\n\nHave you ever craved for something that is hard to get? Or had a desire for something that is beyond your reach at the moment? The word yearn basically means to have a strong desire or longing for something.\n\nTo yearn for something is to want it really bad. Usually you yearn for something  or someone you can't get easily.\n\nIt also means to have deep affection for something.\n\nWhen you have an intense feeling of loss or lack, or you care and treasure something, it means you yearn for it.\n\nWhen you are away from home for many years, you yearn for your mother's love.\nAs the word yearn shows the action of a strong desire, it is a verb.\n\nExample 01 : Jennifer is star-struck and yearns for a lifestyle as rich and lavish as the Hollywood stars.\n\nExample 02 : After two decades of imprisonment, the prisoners yearned for their freedom.\n\nExample 03 : Though Sam is content being the manager in the company, somewhere in his heart, he still yearns to be the CEO which seems like a distant reality as of now.\n\nExample 04 : Despite  a successful career in private business, john always yearned for a return to his public sector roots.\n\nExample 05 : After Mary and Peter broke up, he had realized her importance in his life and started to yearn for Mary's love.\n\nExample 06 : After a long hectic day at work, Smith yearned to go to the beach with his kids.\n\nExample 07 : When William's son moved overseas to pursue higher education, Peter couldn't stop yearning to see him.\n\nExample 8 : When I was on a business trip to Europe, I always yearned for some homemade vegetarian food.\n\nExample 09 : Most teenagers yearn for the day when they can make their own bucks and take their own decisions.\n\nExample 10 : All the young participants worked very hard as they were yearning to win the \"MISS WORLD' title.\n\nExample 11 : Lisa was yearning to watch the Oscar award winning film, but her tight schedule didn't allow her to.\n\nExample 12 : After facing the problem of drought in the desert region, all the people started yearning for some rainfall.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ge8HZilh3NM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ge8HZilh3NM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ge8HZilh3NM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ge8HZilh3NM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ge8HZilh3NM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ge8HZilh3NM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/chY9mr7004zfkzNbz0nK_OrbXAE\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:13.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary -  Episode 53 - To keep at bay",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary : Episode 53\n\nTo keep at bay\n\nSometimes you realize that some things or certain people don't make you comfortable due to various reasons. To avoid any conflict or unpleasantness you  choose to stay away in such situations.\n\n To keep at bay (from someone or something) means to keep a safe distance from them.\nIt also means to prevent something or someone from coming too near to you or harming you which could be a person or a problem.\n\nSo When you keep something or someone at bay, you are handling the situation more tactfully without getting into any unnecessary mess or a problem. So you very smartly choose to stay away by  keeping things at bay.\n\nFor example, When you are on a weight loss program, you keep yummy deserts at bay as they go against your goal of losing weight.\n\n Okay, now that you know what this idiom means, let's take a look at some example sentences to see how you can use it in your daily conversation.\n\nExample 01 : Whenever Tina is out, she keeps her husband's credit cards at bay, as she can't resist shopping.\n\nExample 02 : A daily dose of vitamin C keeps cough and cold at bay.\n\nExample 03  : To keep the unwanted telemarketing calls at bay , John registered his mobile no in the DND directory.\n\nExample 04 : Practicing yoga and meditation are good ways to keep stress at bay.\nExample 05 : keeping huge liabilities at bay, is a hassle free way of running your business as there is less burden of out standings.\n\nExample 06 : When you are working on the computer for long hours, doing stretches at regular intervals, keeps back and neck problems at bay, as they help in relaxing your muscles.\n\nExample 07 : The nutritionist told Janet, \" To fight obesity, Keep junk food at bay and stock your fridge with vegetables and fruits.\"\n\nExample 08 : The star couple agreed for an interview with the media after the latter promised to keep questions regarding their wedding plans at bay.\n\nExample 09 : Due to a serious leg sprain, Rosy had to keep her high heels at bay, to avoid further damage.\n\nExample 10 : William missed his girlfriend so much, that he couldn't keep her thoughts at bay and flew down immediately to see her.\n\nExample11 : To keep spam emails at bay, I installed an email filtering software in my laptop.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_xS1LGHjGXU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_xS1LGHjGXU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_xS1LGHjGXU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_xS1LGHjGXU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_xS1LGHjGXU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_xS1LGHjGXU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Jm6UeL9-zMPqRYiNYjEOTSltYfY\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:17.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary Episode 54 ( ESL) - Euphoria - Spoken English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 54 : Euphoria\n\nAt some point of time in your life, you must have experienced being in an extreme state of happiness.\n\nThe word euphoria basically means to be in a state of intense happiness or wellbeing.\nWhen you achieve your goal after continuous efforts, besides feeling confident, it leaves you feeling extremely happy and overjoyed. You are in high spirits and in a state of complete bliss. It means you are experiencing euphoria.\n\nSo when you are taken by surprise due to something you never expected, there is always a burst of euphoria.\n\nFor example, When your dream girl asks you out on a date, you are euphoric as you never expected your dream to become a reality.\nAs the word euphoria is a kind of emotion, it is a noun.\n\nExample 01 : After holding his new born baby for the first time, Dr. John was filled with euphoria.\n\nExample 02 : Chang was flooded with euphoria, when he was awarded as the best chef at the food festival.\n\nExample 03 : The drug addict can't give up drugs as they produce an intense feeling of euphoria.\n\nExample 04 : Lisa was euphoric when she graduated from the university with a distinction, as it was least expected by her. \n\nExample 05 : There was a burst of euphoria among the kids, when Peter surprised them by promising an overseas holiday this summer..\n\nExample 06 : There was a sudden euphoria among family members when they saw Monica  walk on her own feet after recovering from the accident.\n\nExample 07 : Samanta was in a state of euphoria when she boarded the aircraft, as she had never experienced flying before.\n\nExample 08 : After grabbing the prestigious project, The moment was euphoric, and everyone in the office expressed their joy by jumping in the air.\n\nExample 09 : Johnny couldn't control his euphoria when he won the lottery.\n\nExample 10 : After being elected as the next COO of the company, Thomas was euphoric and called for a big celebration.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OCIlgl11ar0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OCIlgl11ar0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OCIlgl11ar0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OCIlgl11ar0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OCIlgl11ar0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OCIlgl11ar0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/I-aP6hjr3aC6rU0XxIsQ3Y7GNgU\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:21.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary -  Episode 55 ( ESL) - A bolt from the blue  Spoken English lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 55\nA bolt from the blue -- idiom\n\nIn your daily routine, you may have faced something that left you feeling extremely surprised, as it was unexpected. \n\nThe idiom a bolt from the blue basically means, to feel surprised due to something that you never expected.\n\nIt means if something happens unexpectedly and suddenly, it is a bolt from the blue.\nIf a lightning bolt were to strike a clear blue sky, it would be quite unexpected.\n\nSo something that occurs out of nowhere and is a complete surprise to you, it is a blue from the bolt.\n\nFor example, when you heard the news of your friend's accident, it left you feeling shocked as it was something you never expected and happened all of a sudden. So this unpleasant news came as a bolt from the blue.\n\nExample 01 : The news of John's heart attack, was  a bolt from the blue to all his colleagues, as he was in his late thirties. \n\nExample 02 : Peter's detention in his first year of medical college, came as a bolt from the blue to is parents, they were completely shattered.\n\nPeter's detention letter from the college principal, left his parents completely shattered, as it was bolt from the blue for his parents.\n\nExample 03 : When Mary and William broke the news of their divorce to both of their families, it was a like a bolt from the blue and left everyone heartbroken.\n\nExample 04 : After reading about the unreasonable rise in the petroleum price, it was like a bolt from the blue for the all the car owners and they decided to protest.\n\nExample 05 : The new tax policy came as a bolt from the blue to everyone as it left no scope for any savings.\n\nExample 06 : The young successful entrepreneur's suicide, was a bolt from the blue to all the neighbours, as they couldn't figure out the reason for her suicide.\n\nExample 07 : Ben got a bolt from the blue. When he was sacked from the company, after been awarded as the best salesman of the year.\n\nExample 08 : Jennifer had a bolt from the blue, when she realised that she had lost her diamond ring, she had no idea when it slipped off her finger.\n\nExample 9 : When the alcoholic decided to surrender himself to the rehabilitation centre, it came as a bolt from the blue to his wife as she had never expected him to take such a step.\n\nExample10 : When John was held to ransom at gun point, it came as  a bolt from the blue as he didn't knew how to react.\n\nExample 11 : When the board of directors saw their company's share value crashing down, it was like a bolt from the blue to them.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lDjHnb4cj4I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lDjHnb4cj4I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lDjHnb4cj4I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lDjHnb4cj4I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lDjHnb4cj4I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lDjHnb4cj4I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/yBFmmQFMzOw8e41nbqCnvRHj2PI\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:26.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary  - Episode 56 ( ESL) Phobia - English Speaking Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 56\n\nPhobia\n\nDo you fear something in your life ? and you don't know what is the cause of it?\nThe word phobia basically means to have a fear of a particular object or situation.\nA phobia is a fear which can interfere with your ability to socialize, work or do your daily chores. When you have a phobia of something or a situation, you avoid facing them even after knowing they are not harmful or dangerous. \n\nA phobia can give you a panic attack or make you feel totally helpless.\nThere are many types of phobias that include fear of animal, heights, crowds and social events.\n\nMany times a bad experience which you can't get over develops a phobia.\nMany people have a phobia of water, they are extremely scared to swim or do any water based activities. This could be due a bad experience they have faced in their past. \nMost children fear darkness and are too afraid to sit in a dark room.\nA person who has a phobia is known as phobic.\n\nFor example, when a friend of yours has phobia of snakes, she  begins to fear even on a discussion on snakes or by looking at a picture of a snake.\n\nAS the word phobia is a kind of fear, it is a noun.\n\nExample 01 : Dyslexic children should be given immediate help before they become school phobic.\n\nExample 2 : After a deadly bike accident over a wet road, I have become phobic to it, I never rode in monsoons after that and I feel I might skid even while walking on the road.\n\nExample 03 : Although William loves his girlfriend way too much, but hasn't proposed her for marriage as he has commitment phobia.\n\nExample 04 : Lisa keeps washing her hands every hour, as she has a phobia of picking up germs from her surroundings.\n\nExample 05 : Due to Peter's flying phobia, he couldn't opt for a career in the aviation industry.\n\nExample 06 : Mary told Maria, \" I have so many phobias, but my worst  phobia  is of spiders.\"\n\nExample 07 : Samantha has a phobia of elevators, She  walks up twenty flights of stairs daily to get to her office.\n\nExample 08 : When the entire family took the cable car to reach the mountain top, John chose to stay away as he had a phobia of heights.\n\nExample 09 : Ben sleeps with the lights on, as he can't get over his phobia for darkness.\n\nExample 10 : When William  was asked to give a speech in front of the audience, he  stood nervous as he had a phobia of facing the crowd.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BFl9x0FEq4Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BFl9x0FEq4Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BFl9x0FEq4Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BFl9x0FEq4Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BFl9x0FEq4Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BFl9x0FEq4Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/0rqfy_cIQu_xMebqrZeQWZY8ZWM\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:31.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 57 (  ESL ) A feather in your cap   - English speaking Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary - Episode 57\n\nA feather in your cap\n\nWhen you are praised or appreciated for something great that you have achieved, it gives you a sense of pride and fulfilment. You feel satisfied with your achievement.\n\nThe idiom a feather in your cap basically means to receive symbol of honour or achievement.Whenever you succeed in doing something or achieve a new milestone, it is definitely a feather in your cap. A feather in a cap is a symbol of achievement and signifies a mark of distinction. \n\nWhen your efforts are acknowledged, you feel extremely proud and this adds to a feather in your cap.\n\nFor example, When you win a marathon race, it is a feather in your cap as your achievement is worthy of praise and recognition.\n\nExample 01 : When the wrestler won the Gold medal at the Olympics, he was thrilled as it was a feather in his cap.\n\nExample 02 : William's Masters degree, added a feather in his cap,  as he had good chances to get a job, in an international company.\n\nExample 03 : Being the first media channel to broadcast the earthquake on national television, it was a feather in their cap.\n\nThe media channel added a feather in its cap, being the first to report from the ground zero of the earthquake hit area.\n\nExample 04 : Mother told Johnny, \"I'm glad that you stood first in your math test. Your teacher praised you in front of the entire class, it is a feather in your cap.\"\n\nExample 05 : When the new actress bagged the big banner film, it was a feather in her cap as she would get immediate fame and recognition.\n\nExample 06 : After Peter's rival cafe closed down, it was a feather in Peter's  cap as he won over his competitors because of his exceptional service. \n\nExample 07 : The air force added a feather in its cap by inducting the F 22 Raptor fighter planes in their fleet, to become one of the world's best equipped air defence.\n\nExample 08 : Adrian Smith added a feather in his cap by designing, Burj Khalifa -  the world's tallest structure built by any human till date.\n\nExample 09 : Being the only child, William inherited a huge villa from his father, it was a feather in his cap as it was of vintage value.\n\nExample 10 : Richard got a feather in his cap, when he solely won  a million dollar project  for his company and was soon promoted as a sales Manager.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to speak fluent English\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFree English, English lesson, English video, vocabulary, business English, Grammar, learn grammar, English speaking, spoken English, learn English, speak English, speaking English, fluent English, fluency in English, English training video, speak fluent English, accent training, American accent, British accent,  US accent, UK accent, accent training, personality development, words, sentences, public speaking, presentation, soft skills, how to, phrases, idioms, listening skills",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qKWCFUpnreE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qKWCFUpnreE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qKWCFUpnreE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qKWCFUpnreE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qKWCFUpnreE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qKWCFUpnreE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/It45954W_ME5zBjb2IM3Q1kOwqk\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:56:36.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "DAily Video Vocabulary - Episode 58 ( ESL)- Protocol - Spoken English lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 58\nProtocol \n\nWhen you study in a university or work in an organization, you are subjected to certain dos and don'ts that you need to follow like Reaching on time, wearing formals and submitting assignments within the given deadline.\n\nThe word protocol basically means a set of rules and guidelines that are needed to be followed by people.\n\nIt refers to an appropriate behaviour and rules of conduct for a particular situation or an event. So when you follow your office etiquettes, it means you are following the protocol.\nIt could also mean a formal agreement between two parties.\n\nA protocol guides you how an activity should be performed especially in the field of diplomacy.\n\nFor example, a President of one country visiting another country is to be received by a person in a similar position and status in the host country. This is a kind of protocol and should not be violated.\nIn the field of technology, a standard method for connecting computers for an exchange of data among them is also a protocol.\nAs the word protocol is a kind of 'set of rules', it is a noun.\n\nExample 01 : Lisa broke the company protocol,  when she used the company's email address to send personal mails to her friends.\n\nExample 02  : After the recent blast in the Shopping mall, the management ordered a protocol, to scan every entrant into the mall..\n\nExample 03 : In most of the restaurants, the correct safety protocol for employees handling food is to wear a hair net or a toque ( Chef's hat). \n\nExample 04 : The accident at the fuel station took place even though all the employees followed the safety protocol.\n\nExample 05 : switching off mobile phones in the hospital, is a protocol that is to be followed strictly by all the visitors.\n\nExample 06 : Air hostesses are especially trained in air safety protocol to enable them to handle emergency situations calmly and patiently.\n\nExample 07 : Jeniffer's computer engineer said, \" There was a problem with your computer's protocol settings and so you couldn't access the internet.\"\n\nExample 08 : Before paying the admission fees at the university, Sabina was asked to sign a declaration, that she had agreed to all the terms of the university's protocol.\n\nExample 09 : When Maria  started her new company, she established her own protocols and trained the employees on them, to ensure smooth daily operations. \n\nExample 10 : Every Financial Institution has several security protocols in place to ensure that the clients sensitive data is protected.\n\nExample 11 : Various countries have established a new trade protocol to help improve their respective economies and relations with one another.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gAL8r6ovkQQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gAL8r6ovkQQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gAL8r6ovkQQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gAL8r6ovkQQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gAL8r6ovkQQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gAL8r6ovkQQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/VZzUn5xF5BloUpVhPiiTXz_bKe4\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:32.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video Vocabulary -  Episode 59 ( ESL) - To extend an olive branch",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 59 : TO EXTEND AN OLIVE BRANCH'\n\nI'm sure you may have quarreled with your friends or family members in the past. As time went by, you decided to end the silence and made an apology to put an end to the misunderstanding.\n\nThe idiom, to extend an olive branch means to make peace by ending a fight or a misunderstanding with your dear ones.\n\nWhen you have a tiff with someone, you stop communicating and drift apart from them. Sooner or later you realize your mistake and decide to put the past behind by starting afresh with them. When you apologize and make peace, it means you are extending an olive branch.\n\nSo when you put an end to the existing conflict and bring peace in your relationship, it means you forgive and forget by extending an olive branch to them.\nIt is a symbol or token of peace made to someone, in order to have a smooth relationship with them.\n\nExample 01 : After the big argument, Sam realized that he couldn't stay without talking to his girlfriend, so to bring things back to normal, he extended an olive branch to her.\n\nExample 02 : When Chang  learnt that he would be working with Michelle on the new project, he was forced to extend an olive branch to her , keeping  his personal differences aside. \n\nExample 03 :  When Suzan realized that her children were badly affected with her daily arguments with John, she extended an olive branch to him.\n\nExample 04 : The factory owner extended an olive branch to all the employees on protest, by giving into their demands, to resume the halted production.\n\nExample 05 : The Manager extended an olive branch to his team member, when he realized that he had over reacted by screaming at her for a small mistake.\n\nExample 06 : Rosy tells Peter, \" Your girlfriend lied to you, she is at fault, why should you apologize ? Let's see if she extends an olive branch to you.\"\n\nExample 07 : The famous actor extended an olive branch to all his fans for being drunk and misbehaving publicly in the stadium.\n\nExample 08 : Peter advised William to write an email to his boss and extend an olive branch for absconding from work without prior intimation.\n\nExample 09 : To bring  the family dispute to an end, John extended an olive branch and invited his family over dinner to start afresh.\n\nExample 10 : When the customers were displeased with the food served to them, the chef extended an olive branch and compensated by replacing the dish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wFORZ5TP5Wk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wFORZ5TP5Wk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wFORZ5TP5Wk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wFORZ5TP5Wk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wFORZ5TP5Wk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wFORZ5TP5Wk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ry9jy6FD0XW5YaJHfSGe16maFEQ\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:36.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Vocabulary Lesson - Episode 60 ( ESL) Spoken English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 60 : Jeopardize\n\nHave you ever felt threatened due to something or someone? Or have you felt that something is going to harm you? The word jeopardize basically means to be in a situation or to put someone into a situation which is dangerous and harmful.\nIt also means to take a risk that may prove to be harmful which in turn can endanger your position. To jeopardize a situation or an activity, means to do something that may lead to destruction or failure. When something is at stake, it means it is jeopardized.\nFor example, drunk drivers always jeopardize the lives of others, as their irrational driving can lead to fatal accidents, endangering innocent lives.\n\nAs the word jeopardy shows the action of threatening or harming, it is a verb.\n\nExample 01 : To make big bucks quickly, the stuntman jeopardized his life by performing deadly stunts in the film.\n\nExample 02 : John worked extremely hard for his medical entrance examination, as failure in this exam could jeopardize his whole future.\n\nExample 03: Experts say the drastic reduction in the white tiger's population could jeopardize their future survival.\n\nExample 04 : Mary has lost her glow and charm and looks very pale,  as her health has been jeopardized due to the stress at work.\n\nExample 05 : The event manager told his marketing team, \"Lack of sponsorship would jeopardize the execution of our event.\"\n\nExample 06 : Suzie told Jenny, \" if I tell Peter about my past affair with his best friend, it will definitely jeopardize my current relationship.\"\n\nExample 07 : Even after repeated warnings Mary has jeopardized her job by being persistently unpunctual.\n\nExample 08 : When my friend Sheela asked me for a small financial help, I obliged her as I didn't want to jeopardize our friendship.\n\nExample 09 : Commercial fishing has not only jeopardized the health of marine eco systems but has also left less scope for recreational fishing.\n\nExample 10 : The doctor advised Judy not to jeopardize her health any further by aiming to be a size zero.\n\nExample 11 : a sudden fall in the share market has jeopardized the position of big investors and left them feeling helpless.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bC-4wjOGIWg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bC-4wjOGIWg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bC-4wjOGIWg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bC-4wjOGIWg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bC-4wjOGIWg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bC-4wjOGIWg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/M6BIXhspjdurQNkchtFWswvRogw\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:40.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Vocabulary lesson Episode 61 - Spoken English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 61 : Empathy\n\nWhen you see someone experiencing something that you had already  aced in your past, you immediately understand and sense what the person is going through as a result of your own experience.\nThe word empathy basically means the ability to share someone else's feelings or experiences, by imagining what it would be like to be in their situation.\nSo when you put yourself in someone else's shoe, it means you are showing empathy. You do this by sharing someone's emotions and feelings as though they were your own.\nYou empathize when you actually identify with the problems or situations of people and understand their thoughts and condition.\nAs the word empathy is a kind of feeling, it is a noun. The act of showing empathy means to empathize and a person who empathizes is known as empathetic.\nFor example, A former smoker is more likely to have empathy with someone who is trying to quit smoking. This is because he underwent a similar phase and exactly knows how it feels.\n\n\nExample 01: To be successful in sales, besides having good selling skills, one should learn how to empathize with their customers.\n\nExample 02 : After John spent several months on researching the prison life, he empathized with the exploited prisoners.\n\nExample 03 : Mary's empathy  for others, has distracted her from solving her own issues at work.\n\nExample 04 : The doctor's empathetic approach towards her patients has made her a favorite amongst them.\n\nExample 05: William empathized with Kelly when she broke down after telling her about  the tragic loss of her family member.\n\nExample 06: Rosy told her friend, \" My empathetic nature towards animals has made me a pure vegetarian. I no longer enjoy having meat.\"\n\nExample 07: Peter's  lack of empathy and understanding, make him incapable of sustaining any relationships.\n\nExample 08: When Samantha saw Maria was being abused by her husband daily, she empathized with her and reported the matter to the police.\n\nExample 09: I empathized with James after learning about the huge loss he incurred in the stock market.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M0vlGxjTAZk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M0vlGxjTAZk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M0vlGxjTAZk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/M0vlGxjTAZk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/M0vlGxjTAZk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M0vlGxjTAZk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/iIB_UQLDQqPb6yW-GQLa53C-_NA\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:45.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary -- Episode 62  Endure   Spoken English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 62 : Endure\nYou must have suffered silently because of some pain in your life without anyone knowing about it. The word endure mainly means, to be in pain or a difficulty, facing it alone and without anyone's  knowledge.When you tolerate someone or something such as violence, abuse or something that is unpleasant, you are enduring it without any opposition.So when you endure a painful or a difficult situation, you undergo the suffering  and do not give up, but rather face and withstand it with courage.To Endure could also mean to continue or to last.\n\nIf something endures, it continues to exist, like an old ancient building or a king's legacy.\nFor example, after the loss of an evergreen super star, the memory of her great acting endures.\n\n\nExample 01 : Mary  quit her job because she had to endure a lot of unprofessional remarks from her colleagues.\n\nExample 02 : The ancient buildings in our city have endured for centuries.\n\nExample 03 : The soldiers of the special task force endured hardship during their training, to become one of the best emergency response forces.\n\nExample 04 : In winters Samantha couldn't endure the cold, and always sat near the fire place.\n\nExample 05 :Don Bradman's cricketing legacy will always be endured by all the cricketers for years to come.\n\nExample 06 : The students slept away in their Economics lecture as they couldn't endure their professor for too long.\n\nExample 07 : The beggar had not eaten for forty eight hours, he could no longer endure the misery of his hunger.\n\nExample 08 : A customer service executive has to endure various types of customers without being impolite to maintain good business relations with them.\n\nExample 09 : The people on the boat had no option but to endure the harsh waves caused due to the stormy weather and wait until the weather settles.\n\nExample 10 : William endured the pain of his injured knee and finished the race.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SOUGyc9sTO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SOUGyc9sTO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SOUGyc9sTO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SOUGyc9sTO8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/SOUGyc9sTO8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SOUGyc9sTO8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/KWD3Sbvo-5yjH43VlQCosrgi5tU\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:49.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 63 -  Tickled Pink  - English Lesson",
+    "description": "Watch all the episodes of daily video vocabulary from your desktop Download the app : \nhttp://www.letstalkpodcast.com/desktop_tv_free_english_learning_software.html\n\nLearn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily video vocabulary Episode 63  : To be tickled pink.\n\n You may have been very happy due to something or someone. It could be due to your promotion or a surprise gift given to you by your family.The idiom 'tickled pink' basically means to be very pleased or delighted.When you are really excited about something, due to the extreme happiness, your skin turns pink, as though you are blushing. This is because you are tickled pink.To be tickled pink means to be delighted about something, or to be in a state of excitement and joy.When you tickle someone pink, it means you do something to make them happy or pleased.For example, you pay a surprise visit to your best friend on her birthday to tickle her pink.\n\n.Example 01 : Mary was tickled pink to receive a bouquet of flowers from John on her birthday.\n\nExample 02 : William was tickled pink when he was awarded the best salesman of the year as he least expected it.\n\nExample 03 : To make the stressful moment lighter at work, Michelle told a joke that really tickled all her colleagues pink.\n\nExample 04 : Little Lydia was tickled pink when Samantha asked her to be the bridesmaid at her wedding.\n\nExample 05 : The public were tickled pink when the $2500 budget car Nano was launched in the city, it was a dream come true for them as it was  really affordable.\n\nExample 06 : My mother tickled pink when I invited my girlfriend Rosy to join us at the Christmas lunch.\n\nExample 07 : The teenagers were tickled pink when they saw their favorite rock band perform at the concert.\n\nExample 08 : Jennifer was so tickled pink when the doctor broke the news of her pregnancy, she couldn't wait to share the joy with her husband.\n\nExample 09 : Jenny was tickled pink when she saw Christopher waiting to receive her at the airport as she hadn't seen him in many years.\n\nExample 10 : The declaration of 20 % bonus to all the share holders  of  the company, tickled them pink. \n\nExample 11 : When James complimented his girlfriend and expressed how lucky he was to have her, she was extremely tickled pink as he did so for the first time.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/We0RA64INgo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/We0RA64INgo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/We0RA64INgo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/We0RA64INgo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/We0RA64INgo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "We0RA64INgo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/FYaBV_5WdchX6U2jJtvSf4njSbs\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:57:54.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 64 : ENDEAVOR.  English Lesson",
+    "description": "Now watch all the episodes  from you desktop. DOWNLOAD THE APP : http://www.letstalkpodcast.com/desktop_tv_free_english_learning_software.html\n\nLearn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 64 : Endeavor\n\nWhen you want to achieve something, you always put in a lot of effort. You strive\nuntil you succeed. The word endeavor basically means to try hard to achieve something.\nIt could also mean an attempt to accomplish a goal. When you make an effort to do something new or difficult, it means you endeavor to do it. So when you endeavor to do something, you actually try very hard to do it. For example, when you constantly endeavor to start a new business, you exert yourself and put in all the efforts that are required to accomplish it.\n\nExample 01 :After the mother scolded them, John and Mary endeavored to keep their room neat and tidy.\n\nExample 02 : When William quit his job to start a new business, all his colleagues wished him luck in his new endeavor.\n\nExample 03 : The police made every endeavor to find the kidnapped child and arrested the kidnapper.\n\nExample 04 : The manager told his subordinates, \" Tomorrow the meeting is at\n11am, please endeavor to come on time.\"\n\nExample 05 : It's important to be updated with the latest  computing technology, as it is\nthe fastest changing area of human endeavor.\n\nExample 06 : Lisa looked stunning on her date with Peter, she attracted his attention without any endeavor.\n\nExample 07 : Ben was very unhappy as all his endeavors to stand first in the\nexamination had gone unrewarded.\n\nExample 08 : All the children looked curiously at the magician when he endeavored to make the rabbit disappear.\n\nExample 09 : The Emergency breakdown service center endeavors to respond to customer complaints  within 2-3 hrs .\n\nExample 10 : The reliance Industry is flourishing because of all the endeavors made by the late Mr. Dirubhai Ambani.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VhbCdO3qkC0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VhbCdO3qkC0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VhbCdO3qkC0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VhbCdO3qkC0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VhbCdO3qkC0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/jYeKPeuNH48qSrUWEOKwPJ1ec38\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:04.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 65 : Foster.  English Lesson",
+    "description": "Now you can watch all videos from your desktop : DOWNLOAD THE APP\nhttp://www.letstalkpodcast.com/desktop_tv_free_english_learning_software.html\n\nLearn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 65 : Foster\n\nHave you ever promoted something or tried to develop something new, like a business or a plan?The word foster mainly means to encourage or promote something.  When you encourage the development of a new idea, it means you are fostering it. for example, when you help your company's  new campaign to grow, you are fostering it. The word foster also means looking after someone else's child without legal adoption. So if you foster a child, you act as a guardian and play a vital role in his growth. As a foster parent, you ensure the safety, permanency and well being of the child.\n\n\nExample 01 : Unhygienic conditions in your neighborhood can  foster the spread of various viral diseases.\n\nExample 02 : Mary asked Janet, \" for the love of animals, would you consider fostering stray dogs?\"\n\nExample 03 : The task of an English teacher is to foster speaking in English to all the vernacular students.\n\nExample 04 : Appreciating your employees helps them to foster a sense of self worth and motivates them to perform better.\n\nExample 05 : Maria told her husband, \" You bake really well, if you must foster your hobby you will run a successful bakery business .\"\n\nExample 06 : Mrs. Smith have fostered many homeless children and provided for their education.\n\nExample 07 : The UNO aims to foster good relations amongst various countries  and maintain world peace.\n\nExample 08 : The manager called for a meeting to foster new ideas from the young trainees for the promotion of his new ad campaign.\n\nExample 09 : The new fitness club fosters a healthy lifestyle through exercising regularly and a healthy balanced diet.\n\nExample 10 : Lack of security on deserted streets can foster anti social activities to take place such as robbery or theft.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/92U_Vn782QM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/92U_Vn782QM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/92U_Vn782QM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/92U_Vn782QM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/92U_Vn782QM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "92U_Vn782QM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/nptd1Qk7izm_8jpVoN_JXCJMELA\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:22.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 66 - Indispensable. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 66 : Indispensable\n\nThere are certain things that are very important in your life, and you actually feel incomplete without them, you just can't exempt them from your life.\nThe word indispensable basically means something that is absolutely important, essential and necessary for you.\nSo when you can't stay without something in your life, it means it is indispensable to you.When you say that someone or something is indispensable, you mean that they are essential part of your life, and you can't function without them. They play a very vital role in your life.For example, a mother is an indispensable part of her child's life. The children totally dependent on her for their meals and for taking overall care of them. When they don't see her around, they feel lost as they can't do without her. \nAs the word indispensable describes the importance of a thing or person in your life, it is an adjective.\n\nExample 01 : Today, we cannot imagine life without computers and mobile phones, they have become indispensable tools of our daily lives.\n\nToday, We cannot imagine life without computers and mobile phones, they have become indispensable tools of our daily lives.\n\nExample 02 :  Julie became an indispensable nanny to little Ben's life, as his parents were busy making a living. \n\nExample 03 : In two years of their courtship period,  Samantha became indispensable to Christopher, he couldn't imagine life without her.\n\nExample 04 : The government has provided free basic education to poor women, as it is indispensable to get a decent job.\n\nExample 05 : While learning a new language, a dictionary is considered as an indispensable possession.\n\nExample 06 : After achieving the sales target one more time, the boss told Peter, \" You are an  indispensable asset to this company.\"\n\nExample 07 : Inhalers are indispensable to all asthmatic patients and are required to be carried around in case of an emergency.\n\nExample 08 : Father told his impatient young son, \" Hard work and patience are indispensable qualities to be successful in life.\"\n\nExample 09 : Credit cards are indispensable to carry out online business transactions.\n\nExample 10 : Ample of parking space is indispensable for the success of any departmental store or a shopping mall.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QtTU09TjqxY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QtTU09TjqxY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QtTU09TjqxY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QtTU09TjqxY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QtTU09TjqxY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QtTU09TjqxY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/pMoHFCAkKLbZnVU-Wyl-6uhCn9Y\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:26.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 67 : Repercussion. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 67 : Repercussion\n\nYou may have done something and faced a serious consequence of your action.\nThe word repercussion mainly means a negative effect caused by the action of something or someone.If an action or an event has repercussions, it causes unpleasant things to happen. Such effects are unwelcomed and may continue for a long period of time.It is an effect or a result of something done.It could also mean a reflection of a sound. For example, inflation can have serious long term repercussions on a country's economy.\n\nExample 01 : William advised Peter, \" Cheating on your spouse will have serious repercussions on your marriage.\"\n\nExample 02 : The manager realized that his harsh words had serious repercussions on the morale of his employees. They could no longer work efficiently.\n\nExample 03 : The earthquake had adverse repercussions on the nation, it left people homeless and jobless.\n\nExample 04 : The decrease in wild life could have repercussions on the local Tourism  and foreign exchange of the country.\n\nExample 05 : Severe hair loss are some of the repercussions  faced by the patients, who undergo chemotherapy to fight cancer.\nExample 06 : When John suddenly quit his job, it had repercussions on his team members as they had to take additional responsibility and work over time.\n\nExample 07 : To be locked in her room was the repercussion Jenny had to face for her bad and arrogant behavior at the party last night.\n\nExample 08 : Maria couldn't walk out of her disastrous marriage as it would have painful repercussions on her children.\n\nExample 09 : The oil spill due to an accident at the high sea had serious repercussions on the aquatic life.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gBNimZCUyyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gBNimZCUyyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gBNimZCUyyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gBNimZCUyyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gBNimZCUyyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gBNimZCUyyg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/MMRBM2tBuPLJw5tmK-zmnoVqPb0\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:30.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode 68 : Nostalgic. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 68 Nostalgic\n\nWhen you recall your college days, you feel happy because it brings back good memories and sadness as those days no longer exist.\nThe word nostalgic basically means to be sentimental and cherish the good times in the past.If you feel nostalgic, you think affectionately about an experience you had in the past and wish things had not changed. It is the good feeling you get when you remember your past. You sit back, smile and think to yourself, wow that was fun or happy. \nSo, it is a longing desire to go back to a sentimental place, time or to a person's company that always made you happy. It could also mean the state of being homesick or a longing for home. For example, when you are away from home, you become homesick as you miss your family and you become nostalgic about returning to your home.\n\nAs the word nostalgic describes the feeling of being happy or sad simultaneously, it is an adjective.\n\nExample 01: When Samantha was at the cafe with her ex-colleagues, she felt nostalgic while speaking about their happy and fun days at work.\n\nExample 02: Peter felt extremely nostalgic while listening to old romantic songs; it reminded him of his good old days with his girlfriend.\n\nExample 03: When David visited his village after many years, he became nostalgic as he missed his school days and the simple lifestyle.\n\nExample 04: Maria felt nostalgic when she saw wooden toys, handicrafts and colorful dolls at the exhibition, as they were her favorite possessions in her childhood days.\n\nExample 05 : While the young girls attempted their first baking and made cookies, it brought them nostalgic memories of their grandmother's kitchen. \n\nExample 06 : After reading her son's email, the nostalgic mother wept as she longed to be with her son who was studying overseas.\nExample 07 : At the park, when the old man saw little children on the tire swing, he felt very nostalgic.\nExample 08 : While addressing the marketing staff, the manager spoke nostalgically about her first job experience as a salesgirl.\n\nExample 09 : During the concert, the band struck up nostalgic music and took the audience back in the aura of 1950's.\n\nExample 10: Away from the family, Jenifer felt nostalgic while opening the Christmas gifts sent by her family.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MPQwbKspHfw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MPQwbKspHfw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MPQwbKspHfw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MPQwbKspHfw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MPQwbKspHfw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MPQwbKspHfw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ajaON5jyPZWsx7mpercMlIkgoss\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:34.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 69 Penny Wise Pound foolish. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary. Episode 69 : Penny wise and pound foolish\n\nHave you ever gone out of your way to save a few bucks by making a compromise and later land up spending a huge amount due to your foolishness?\nThe idiom 'penny wise and pound foolish' basically means to save a little money, only to\nlose a greater amount due to your own foolishness. A penny is a small amount and a pound is a larger amount, so you are wise with a small amount but foolish and wasteful with larger amounts. It also means you are over careful about unimportant and small matters and careless about important ones. You realize that in the process of being stingy about small expenditures, you eventually spend more than you actually saved.\nFor example, if you save a few hundred bucks by not hiring a tax accountant to review complicated matters, you are penny wise and pound foolish as you ultimately land up paying a huge penalty amount. Okay, now that you know what this idiom means, let's take a look at some example sentences to see how you can use it in your daily conversation.\n\nExample 01: A penny wise and pound foolish Mike bought himself an expensive tuxedo suit even though he didn't need it, but is still thinking whether to buy a much needed pair of shoes. \n\nExample 02: Jennifer was penny wise and pound foolish as she bought cheaper vegetables at a whole sale price, only to be thrown as they were spoilt. \n\nExample 03: The manager realized he was penny wise and pound foolish when he hired undergraduates in order to save the operating cost of the company.\n\nExample 04: Samantha told her friend, \"Neglecting your cavities to save money will certainly lead to a root canal which would be far more expensive, so don't be penny wise and pound foolish\"\n\nExample 05 : Sheela was penny wise and pound foolish when she made her husband drive to six different stores to get the best bargains on her groceries, eventually she spent more on fuel than the benefits she got.\n\nExample 06: Being a handy man, William tried to fix the leaking faucet and broke it, he was penny wise and pound foolish, as he had to replace the faucet, pipe and pay the plumber as well. \n\nExample 07: I sold my good motorcycle and purchased a second-hand car that is giving me endless problems; it was too late to realize that it was a penny-wise and pound foolish decision.\n\nExample 08: The Government's education budget cuts are penny-wise and pound foolish, as public education is an investment towards the nation's future.\n\nExample 09: Mary told her husband, \"We've worked so hard to save money, if we took a vacation now it would be penny wise and pound foolish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mrqPnRjj2Xs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mrqPnRjj2Xs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mrqPnRjj2Xs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mrqPnRjj2Xs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mrqPnRjj2Xs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mrqPnRjj2Xs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/D8eEe1xu2QWJYHq64YmwGOFGjPI\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:58:38.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 70 - Efface. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 70 : Efface \n\nThere are many things that you have done in the past which you would never like to remember or acknowledge.The word efface basically means, to wipe out or to make something disappear. So when you try to erase something from your mind, it means you are effacing it. It also means to make oneself appear insignificant, by not drawing any attention to it. You can efface things that are not physical, like efface memories and feelings.  When physical elements like an old coin is effaced, it means it is worn out.\nFor example, when someone hurts you, you choose to forgive and forget to efface all the bad memories.\n\nAs the word shows the action of erasing or wiping out something, it is a verb.\n\nExample 01: After returning from a bad day at work, Michelle's anger was effaced when she saw her children playing games on the laptop.\n\nExample 02: The college students used scrub brushes and white spray paint to efface the graffiti on the wall.\n\nExample 03: To efface the bad memories of her marriage, Lisa left the town and migrated to Canada to start life afresh after her divorce.\n\nExample 04: While reading the story book, the innocent child asked her mother, \"Mom, do you think good deeds can efface our past sins?\"\n\nExample 05: A regular coat of Teflon prevents the surface of the cars paint from effacing and keeps it sparkling new.\n\nExample 06: All high end cosmetic brands have introduced beauty balms, in an attempt to efface blemishes and scars on the face.\n\nExample 07: Peter couldn't efface the guilt from his conscience after cheating n his wife, he kept thinking about it.\n\nExample 09: Sarah had to undergo plastic surgery to efface all the burnt marks caused by the mishap that had taken place in her kitchen.\n\nExample 10: After committing the crime the murderer effaced all the evidence, leaving the investigation team helpless and clueless.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9M81d6VdA14/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9M81d6VdA14/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9M81d6VdA14/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9M81d6VdA14/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9M81d6VdA14/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9M81d6VdA14"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/HmqXS32v2Gat5_atEPzs1hbG4x4\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:59:02.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode :71 Lethargic. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 71 :  Lethargic\nSometimes you feel very tired and dull, you just don't feel like doing anything.\nThe word lethargic basically means to lack enthusiasm due to laziness or to  be low on energy and feel totally dull.\nWhen you feel lethargic, you feel as if all your energy has been drained out, you are unwilling to do anything and wish to sleep. You are unresponsive, inactive and indifferent to things around you.\nSo, the one who is lethargic is lacking in mental and physical alertness.\nMany medicines have the side effect of making you feel lethargic, that means they make you feel very sluggish and lazy, and you actually feel very weak.\nAs the word lethargic describes the state of being lazy and dull, it is an adjective.\n\nExample 01 : The turtles become sluggish and lethargic when their body temperature drops in the winter season.\nExample 02 :The star player had to be pulled out from the team because he seemed to be lethargic for the important game.\nExample 03 : People who smoke are generally lethargic, as smoking starves the tissues and brain for oxygen, leaving you to feel dull and disoriented.\nExample 04 : Maria refuses to take any medicine for her cold because any medications makes her feel drowsy and lethargic.\nExample 05: Due to her depression, Lisa was lethargic and failed to complete her household chores, the entire day she simply lazed about on the couch.\nExample 06 : After waking up from surgery, the patient felt very weak and lethargic because of the anesthesia.\nExample 07 : After the late night party, the next day, Peter was so lethargic that he didn't go to work and lied on the sofa the whole day. \nExample 08 : James avoided having a heavy meal before his presentation as he didn't want to feel lethargic while presenting at the conference.\nExample 09 : Smith was fired from his job due to his continuous lethargic approach and inefficiency in his work.\nExample 10 : Richard was so lethargic even after a good sleep, that he went to see his doctor to find out what was wrong.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0v9GEIhD6Ag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0v9GEIhD6Ag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0v9GEIhD6Ag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0v9GEIhD6Ag/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0v9GEIhD6Ag/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0v9GEIhD6Ag"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/J2lZCCnDvBxhjRXUPRW4YmFwQas\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:59:06.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 72 - Contemplate. English Lesson",
+    "description": "Now watch Training videos directly from your desktop - Download the APP\nhttp://www.letstalkpodcast.in/d/dtv.in\n\nLearn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 72: Contemplate\n\nHave you ever thought about something very seriously or deeply? It could be to arrive at a decision or to analyze a problem. \nThe word 'contemplate' basically means to look at something thoughtfully and attentively or to think about something very seriously.\nIf you contemplate an action, you actually think whether to do it or not and you ponder over it for a long time.\nIt also means you consider doing something or consider the possibility of something happening.\nAs the word contemplate shows the action of thinking or looking at something attentively, it is a verb.\nFor example, when you are in college, you contemplate your future goals, that means you think about your career very seriously by analyze various options.\nOkay, now that you know what contemplate means, let's take a look at some example sentences to see how you can use it in your daily conversation.\nExample 01 : Mr. Roy is contemplating retirement next year as he hasn't been keeping well for a long time.\nExample 03 : Samantha told her William, \" Thank you for offering help, I contemplated doing the project myself, but it would have taken too long to complete it.\"\nExample 04 : When Smith was contemplating a new business, he consulted competent legal, finance and tax advisors to ensure the viability of his venture.\nExample 05 : The class was learning about caterpillars and their transformation into butterflies, but Lisa couldn't contemplate how they could change into completely different things.\nExample 06 : As Samantha was contemplating a change in job,  her boss offered her a raise, to avoid any brain drain.\nExample 07 : Maria contemplated the result of her class test, thinking what had gone wrong and how she could do better the next time.\nExample 08 : Aunt Lucy stared into the mirror for a long time, contemplating the wrinkles on her face.\nExample 09 : To support his family, Alex contemplated leaving the high school and taking up a full time job at the hotel.\nExample 10 : Richard contemplated buying a second hand car for his daughter on her birthday.\nExample 11 : Little Angel  couldn't contemplate the meaning of the poem and asked his mother for help.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XGC54LQYjrw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XGC54LQYjrw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XGC54LQYjrw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XGC54LQYjrw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XGC54LQYjrw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XGC54LQYjrw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/MmfZW38GFKI0Tt7xz6Fhz4fb7Xc\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:59:10.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 73 Avid. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 73 : Avid\n\nThere are certain activities that you take keen interest in, or you may have a strong desire for something.The word avid basically means to be very eager or interested in doing something. If you do something avidly, you do it with great enthusiasm. \nWhen you are avid about something, it is usually in reference to an activity which   you really enjoy doing. For example, someone who talks only about sports is an avid sports fan, or someone may be an avid philatelist because he is interested in collecting stamps from all over the world. It also means to have a strong craving or a greed for something, like a person can be avid for success.\nAs the word avid describes someone to be interested in or enthusiastic about something, it is an adjective.\n\nExample 01 : Ben's avid ambition to succeed made him a workaholic, he wanted to gain quick recognition in his office.\n\nExample 02 : Mary is an avid listener of pop music, she spends a lot of money collecting pop music albums.\n\nExample 03 : Amanda is very annoyed with her husband James, as he is an avid late night clubber and returns home drunk every night.\n\nExample 04 : The Grandparents were avidly waiting to see their grandchildren, since they moved away from the city to their retirement home two years back.\n\nExample 05 : Kimberley is avid about online shopping because she feels that it saves her time and money.\n\nExample 06 : George is an avid rock climber and indulges in this adventure at least twice a year.\n\nExample 07 : Juliet is an avid cook, she always experiments making new dishes with the help of her cookery book.\n\nExample 08 : Richard is an avid internet user, he often sits late at night surfing for information on the net..\n\nExample 09 : Lisa has always been an avid reader on psychology, dating and relationships, she often advises her friends when they face issues in their  personal relationships.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GEswQn0Jcy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GEswQn0Jcy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GEswQn0Jcy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GEswQn0Jcy0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GEswQn0Jcy0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GEswQn0Jcy0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/I7btZHp1G0PnvQaOGge5bhKcxyk\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:59:13.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode :74 Perturb. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 74 Perturb\n\nSometimes you are disturbed by something told to you, or you are worried about something.The word 'perturb' means to be disturb or to worry about something.\nWhen you are perturbed, it means you that you are very worried about something that has happened or will happen.You are agitated or in a confused state of mind and you actually feel very upset about something.So when you are anxious due to something that has happened, you are perturbed.\n\nAs the word perturb shows the action of disturbing or being upset, it is a verb.\nFor example, your friend's ill health perturbs you, that means you are very worried about it and the situation she is in upsets you very much.\n\nExample 01 : The rumors of the riot spread like wildfire and perturbed the smooth order of the town, leaving deserted streets.\n\nExample 02 : The mother was really perturbed , When she found a cigarette packet in her daughter's bedroom.\n\nExample 03 : William was perturbed after he observed Mary's lack of interest in continuing their relationship, as he couldn't figure out the reason.\n\nExample 04 : The extortion calls received by Peter had perturbed him, he finally decided to report the matter to the cops.\n\nExample 05 : The warning of the expected hurricane perturbed the people as they had to evacuate the city at their earliest to the safety camp.\n\nExample 07 : Andy was perturbed to get a huge salary cut even though he achieved his sales target this month.\n\nExample 08 : Hurry's rude and disruptive behavior after being drunk at the picnic perturbed his wife.\n\nExample 09 : Maria told her friend, \"My obesity issue perturbs me and I lack confidence in all I do.\"\n\nExample 10 : Little shawn  was indifferent to his mothers's warnings and nothing seemed to perturb him.\n\nExample 11 : Suzan was perturbed by the news that her father was terminally ill, she immediately flew down to be with him.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CRtTLidKpQI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CRtTLidKpQI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CRtTLidKpQI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CRtTLidKpQI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CRtTLidKpQI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CRtTLidKpQI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/C1zPCuHw4DWVhjlxeRVG7HsjI4I\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2019-10-11T11:59:17.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 75. Abashed. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 75 : Abashed \n\nHave you ever felt ashamed about something that you have done?\nOr have you felt embarrassed by a remark made at you?\nThe word abashed basically means to feel ashamed or embarrassed in a situation.\nWhen you feel abashed, it means you are ashamed about something you have done or you feel embarrassed when you find yourself in an awkward situation.\nYou actually feel very uneasy and self-conscious when you are ashamed or embarrassed. You don't know what to do or how to react.\nWhen someone is indifferent and doesn't feel ashamed or embarrassed, it means they are unabashed and have no regrets.\nAs the word abashed describes a person of feeling embarrassed or ashamed, it is an adjective.\n\nExample 01 : Mary felt terribly abashed she had entered the men's restroom by mistake.\n\nExample 02 : The famous actress was totally abashed when she found the media outside her mansion, after the new of her affair with a co-actor was public.\n\nExample 03 : The financial projection and marketing plan failed miserably, abashing all the executives who had supported it.\n\nExample 04 : Suzan was speechless and abashed when Peter told her that she had gained too much weight and needed to get back in shape.\n\nExample 05 : I was abashed in front of my date last night, when I realized I didn't have enough money to pay for the dinner.\n\nExample 06 : When the Manager made an unusual physical advances at Michelle, she just remained totally abashed and didn't know how to react.\n\nExample 07 : At the meeting, when the manager mentioned about everyone's Salary raise except Williams, it left him feeling very abashed.\n\nExample 08 : Mother told her daughter, \" I can't believe you cheated on your exam! I'm really abashed by you!\n\nExample 09 : One should be simply abashed to ask a question that could so easily be answered with a simple Google search.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/obuS3teC1Kk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/obuS3teC1Kk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/obuS3teC1Kk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/obuS3teC1Kk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/obuS3teC1Kk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "obuS3teC1Kk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/buooHB2nmwGi2LPkKZ7rAczJ8VU\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2019-10-11T12:00:13.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "Daily Video vocabulary - Episode : 76 - Cajole. English Lesson",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 76 : Cajole\nSometimes, you gently and repeatedly appeal to someone to do something even though they don't want to do it. The word cajole, basically means to persuade someone to do something that they really don't want to do.When you make someone do what you want them to do, by talking nicely, or by persuading them in a pleasing manner and flattering them, it means you are cajoling them.At times, you actually persuade them by using insincere compliments or by  making false promises.\nFor example, You cajole your parents into buying you a car for your birthday, so you persuade them, by pleading them and saying nice things to them and by offering to do better at studies.\nAS the word cajole shows the action of persuading, it is a verb.\n\nExample 01 : Michelle cajoled her rich friend into lending her a some money, which she never paid back.\n\nExample 02 : At work, Mary cajoled William into helping her make the sale's presentation as she knew about his great presentation skills.\n\nExample 03 : Ben cajoled his mother for extra pocket money this month, as he had started saving for his friend's surprise birthday party.\n\nExample 04: Peter cajoled his wife to sell her ancestral property, so they could buy a huge villa besides the beach.\n\nExample 05 : After a serious health warning given by the doctor, Jennifer finally cajoled her father to stop smoking.\n\nExample 06 : Maria told her husband, \" You can't cajole me into doing your chores while you sit and watch the final soccer match.\"\n\nExample 07 : As Sheila's husband was in a persuasive and favorable mood, she succeeded in cajoling him to buy her a diamond necklace for their anniversary. \n \nExample 08 : The father had to cajole his son into doing his homework by promising he would take him to watch the baseball game ..\n\nExample 09 : As Shimona had exhausted on her vacation leaves, she had to cajole her boss to give her a few extra paid leaves for her sister's wedding.\n\nExample 10 : The doctor cajoled little Mink into taking an injection, by telling her what a brave girl she was.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Cje1_ylwqNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Cje1_ylwqNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Cje1_ylwqNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Cje1_ylwqNM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Cje1_ylwqNM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Cje1_ylwqNM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/2M0wrunLDbq9wUXu5HjTEVVi26A\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2019-10-11T12:00:17.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "English Lesson 77  : To have your heart in your mouth. Vocabulary, Grammar, Idioms, Phrases.",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary  Episode 77 : To have your heart in your mouth -- idiom\n\nHave you ever felt anxious or scared about something and you just don't know what to do?The idiom to have your heart in your mouth basically means to be nervous or scared about something.When you are nervous or scared, your heart starts pounding and there's a choking feeling in your throat, and you actually feel you have your heart in your mouth.So, when you are extremely anxious about something that may happen, it means you have your heart in your mouth.For example, when your exam result is going to be declared, you are so nervous and anxious that you have your heart in your mouth, this could be because you weren't prepared for your exams and so clearing it is very doubtful. \n\nExample 01 : Little Mary had her heart in her mouth when she had decided to get on the roller coaster at the amusement park.\n\nExample 02 : Michelle was so nervous for her first interview that she had her heart in her mouth while she was waiting for her turn. \n\nExample 03 : Having bunked most of the lectures in her final year of college, Lisa had her heart in her mouth when she found her name blacklisted on the bulletin board.\n\nExample 04 : Although Eric was all set with his presentation, he had his heart in his mouth as he was presenting for the first time.\n\nExample 05 : The soccer fans had their heart in their mouth while watching a very close match and they couldn't wait to see their favorite team win.\n\nExample 06 : After the company was declared insolvent , all the employees had their heart in their mouth as their jobs were at stake.\n\nExample 07 : When Maria's boyfriend introduced her to his grandmother she had her heart in her mouth, as she was not sure if she would be accepted by his family.\n\nExample 08 : The sisters had their heart in their mouth while watching the horror film at night.\n\nExample 09 :  When Peter was fired from his job, he had his heart in his mouth as he was the only bread winner in his family.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/P994IQWELHw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/P994IQWELHw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/P994IQWELHw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/P994IQWELHw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/P994IQWELHw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "P994IQWELHw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/024TKZ4soO5BwRK-BjvRe3IgIJg\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2019-10-11T12:00:22.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "English lesson 78 - PRECARIOUS. Vocabulary & Grammar lessons to speak fluent English - ESL",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nDaily Video Vocabulary Episode 78 : Precarious\n\nHave you ever felt you are in a dangerous or an uncertain situation? \nThe word precarious basically means something that is risky or something that is unstable.When you do something that involves a lot of uncertainty and high risks, it means you are doing something that is precarious.\nIt also means something that is barely hanging on and that is likely to collapse or come down crashing.For example, If you are an adventurous person, you might do precarious things, that means, you undertake activities that are risky or unsafe . Most road accidents occur due to intoxication, thus drinking and driving is a precarious \nAs the word precarious describes a situation or an act of being risky or dangerous, it is an adjective.\n\nExample 01 : Due to the precarious weather conditions, all the flights were cancelled.\n\nExample 02 : The precarious drop in the company's share prices at the stock market put the management team in a state of panic and worry.\n\nExample 03 : The precarious tunnel on the highway resulted in many accidents and is now know as the death tunnel.\n\nExample 04 : Despite of the best medication given by the doctor, grandmother's health remained precarious.\n\nExample 05 : Sarah knows that modeling is not just a precarious profession but also a short lived  one , still she is determined to pursue it.\n\nExample 06 : The use of mobile phone at the fuel station is banned, as it's very precarious and may lead to an explosion.\n\n.Example 07 : Bikers indulge in precarious racing for their passion of bike riding.\n\nExample 08 : Stock trading is considered as one of the most precarious way of making quick money due to the instability  of the share market.\n\nExample 09 : The window cleaner was hanging in a precarious position on the outer wall when his safety rope snapped.\n\nExample 10 : The passerby's on the street applauded the little girls precarious act of walking on the strings.\n\nExample 11 : To earn his livelihood, Bob does the precarious job of an undersea diver.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/faEm37QTMHc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/faEm37QTMHc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/faEm37QTMHc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/faEm37QTMHc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/faEm37QTMHc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "faEm37QTMHc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/WO89h2wNZfLtlDKiDKNVBLJ-si0\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2019-10-11T12:00:26.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "English lesson 79 - Clandestine. Vocabulary & Grammar lessons to learn English - ESL",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\nSometimes you are very secretive about a plan that you have in mind. You keep it to yourself for the time being as you wish not to disclose it.The word clandestine basically means something that is planned or done secretly  or something that is kept hidden.\nI'm sure you have certain secrets or keep some things hidden from a group of people. It could be due to various reasons that you wish not to share. When something you do is not officially allowed or not permitted by law, you do it clandestinely. So, it is done in a hush-hush manner, to keep it away from the public eye.\n\nFor example, when you have a secret affair and keep it under wraps, it means you have a clandestine affair.As the word clandestine describes something kept that is kept hidden or a secret, it is an Adjective.\n\n\nExample 01 : Peter and Mary had no choice but to have a clandestine marriage as their parents were against them getting married.\n\nExample 02 : The clandestine operation undertaken by the police helped them to uncover the white collar thief, who had stolen millions from the company.\n\nExample 03 : The board of directors were clandestine about the proposal of selling the company to their competitor, they didn't want to upset the employees until things were finalized. \n\nExample 04 : Michelle and Smith had a clandestine affair at work, as they didn't want their colleagues to know of their relationship.\n\nExample 05 : William bribed the traffic officer clandestinely, after he had been caught for jumping  the traffic light.\n\nExample 06 :  Shawn told his brother \" Shut your mouth! and be clandestine about the surprise party of our parents wedding anniversary\".\n\nExample 07 : The suspicious wife as usual clandestinely overheard her husband's phone conversation and was shocked to know that he was fired from his job.\n\nExample 08 : Even though Peter was clandestine peter was about his drugs selling business, it came out in open and was finally arrested by the police.\n\nExample 09 : William was  jealous and asked his girlfriend, \" what are you clandestine about? These days you are just into your phone messaging somebody all the time\". \n\nExample 10 : At the store, Tina took a clandestine peek at the price on the diamond ring that she had always admired.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fpNYdIzYZFw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fpNYdIzYZFw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fpNYdIzYZFw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fpNYdIzYZFw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fpNYdIzYZFw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fpNYdIzYZFw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/h5t8DglgOfJQ57EHyJs5-qYzDEY\"",
+   "id": "UExwekszLU4zakFKMlZiQjlRdm9OdEJuYWZUY0c2bGpYTi5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2019-10-11T12:00:30.000Z",
+    "channelId": "UCTUd0u9zzf0AI5H59PEQ8Lw",
+    "title": "English lesson 80 - The Last Straw. Vocabulary & Grammar lessons to speak fluent English - ESL",
+    "description": "Learn to speak fluent English -- Accent Training, Correct Grammar usage, Idioms, Phrases and vocabulary with example sentences. \n\n\nDaily Video Vocabulary Episode 81 : The last straw -- idiom.\nyou may have dealt with an unpleasant happening for a long time, as things worsened you couldn't accept it any longer.The last straw is an idiom which basically means the final problem that makes someone lose their temper or patience.\nIf an event that follows a series of bad experiences makes you feel you can't tolerate it anymore and you finally decide to leave it or do something to change it, you call such an event the last straw.\nIt means you are very angry, you've exhausted all your patience and tolerance and you have had enough. You can no longer put up with it.\nIt is the final irritation that exceeds your capacity of dealing with something that you have been tolerating for a long time.\nFor example, a teacher tolerates her notorious student and keeps warning him, but when he back answers her in front of the whole class, it is the last straw as she no longer has the capacity to deal with him patiently and gets his parents to meet her.\n\\\nExample 01 : The car that Eric bought last month, had a brake and battery problems, but last week's engine trouble was the last straw and he finally decided to sell the car.\n\nExample 02 : Richard had been unhappy at work for a long time, the last straw came when he was refused promotion and he finally quit his job.\n\nExample 03 :Brian had a lot of problems with the hotel service, but when the laundry person messed up with his favorite shirt, it was the last straw and he moved out the next morning.\n\nExample 04 : An international trade ban could be the last straw for the country's foreign exchange growth rate.\n\nExample 05 : Gloria compromised being in a troubled marriage for years,  when she found out her husband had cheated on her, it was the last straw and she ended her marriage.\n\nExample 06 : After repeated warnings, Lisa continued reporting late to work, it was the last straw when she absconded without informing, the management fired her from the job.\n\nExample 07 : The production team had been waiting for the actress on the sets, when she didn't turn up, it was the last straw and they decided to get a new actress on board.\n\nExample 08 : Mary had always been rude and nasty to William, but it was the last straw when she insulted him at a party, he could no longer accept her behavior.\n\nExample 09 : Besides being rebellious, Kris was a chain smoker, when father found him returning home drunk late at night, it was the last straw and he wasn't allowed to party for many months.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gygjIkpqxms/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gygjIkpqxms/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gygjIkpqxms/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gygjIkpqxms/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gygjIkpqxms/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Basic Grammars",
+    "playlistId": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gygjIkpqxms"
+    }
+   }
+  }
+ ]
+}
