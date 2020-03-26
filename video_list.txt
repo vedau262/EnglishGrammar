@@ -2,7 +2,7 @@
 		{	
 			"LIST_VIDEO_NAME": "English Grammars with Easy English",
 			"LIST_VIDEO_SIZE": "18",
-			"LIST_VIDEO_ICON": "https://yt3.ggpht.com/a/AATXAJxzHlWZ01kJsAExS1wOFKtY0m7iNJrxP9If7A=s48-c-k-c0xffffffff-no-rj-mo",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/-TrE6VdtgLE/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLhPfBpTj6VpSZ6eLuA-UcwwPOFFL854WR",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishGrammar/master/EnglishGrammar_EasyEnglish.json",
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/968f45mzuylazjt/EnglishGrammar_EasyEnglish.json?dl=1"
