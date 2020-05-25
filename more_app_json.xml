@@ -1,34 +1,29 @@
 [   
-    {
+	{
+		"title":"English Conversation",
+		"description":"5",
+		"url":"https://play.google.com/store/apps/details?id=com.tonyjet.EnglishViaY",		
+		"thumb_url":"https://www.dropbox.com/s/0dhyb89ehde0alg/EnglishViaY.png?dl=1"
+	},    
+	{
 		"title":"Kid Video",
 		"description":"0",
 		"url":"https://play.google.com/store/apps/details?id=com.video.kidvideo",		
 		"thumb_url":"https://www.dropbox.com/s/wtbhvzrrra3jwfz/kid_video.png?dl=1"
 	}, 
-  {
+  	{
 		"title":"Daily English Conversation",
 		"description":"0",
 		"url":"https://play.google.com/store/apps/details?id=english.tonyjet.dailyenglishconversation",		
 		"thumb_url":"https://www.dropbox.com/s/w4eadt1i24vhz39/icon_96.png?dl=1"
-},
-	{
-		"title":"Việt TV",
-		"description":"3",
-		"url":"https://play.google.com/store/apps/details?id=com.tv.viettv",		
-		"thumb_url":"https://www.dropbox.com/s/fcakhe7ns2tsggt/VietTv.png?dl=1"
-	},
+	},	
 	{
 		"title":"English Practice",
 		"description":"3",
 		"url":"https://play.google.com/store/apps/details?id=com.english.LearnAndTestEN",		
 		"thumb_url":"https://www.dropbox.com/s/m4glqrnpitkdi37/LearnAndTestEN.png?dl=1"
 	},
-	{
-		"title":"English Conversation",
-		"description":"5",
-		"url":"https://play.google.com/store/apps/details?id=com.tonyjet.EnglishViaY",		
-		"thumb_url":"https://www.dropbox.com/s/0dhyb89ehde0alg/EnglishViaY.png?dl=1"
-	},
+	
 	{
 		"title":"German Test",
 		"description":"4",
@@ -40,11 +35,5 @@
 		"description":"5",
 		"url":"https://play.google.com/store/apps/details?id=tonyjet.english.englishforkid",		
 		"thumb_url":"https://www.dropbox.com/s/i88xe8rqvp0e21d/tonyjet_englishforkid.png?dl=1"
-	},	
-	{
-		"title":"English Conversation",
-		"description":"abc",
-		"url":"https://play.google.com/store/apps/details?id=com.glex.englishlisteningalllevel",		
-		"thumb_url":"https://www.dropbox.com/s/9j7dqea3spthf39/ic_launcher.png?dl=1"
-	}	
+	}		
 ]   
